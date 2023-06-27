@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiskeristyrelse", "Fiskeristyrelse\Fiskeristyrelse.csproj", "{EB5F395C-66CD-42FA-8655-A9D20EC468D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5F395C-66CD-42FA-8655-A9D20EC468D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5F395C-66CD-42FA-8655-A9D20EC468D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5F395C-66CD-42FA-8655-A9D20EC468D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5F395C-66CD-42FA-8655-A9D20EC468D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {929FD5F0-7F38-4301-8E23-ED7428D31C51}
+	EndGlobalSection
+EndGlobal
