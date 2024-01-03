@@ -1027,11 +1027,11 @@
 					<attribute id="CanFight" type="bool" value="True" />
 					<attribute id="Faction" type="guid" value="1b2250d4-41ca-4dd1-a8df-9eae7de22ae2" />
 					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="5" />
 					<attribute id="MapKey" type="FixedString" value="d8f53f4a-542c-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_PetrifiedDrow_Spectator" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="TemplateName" type="FixedString" value="319efbbe-f9f3-4584-804e-3e17d47d1136" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
@@ -2146,17 +2146,17 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="CombatGroupID" type="FixedString" value="2dbf407e-59b0-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="040ae042-32ff-45c2-9dbf-e38023256062" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="5" />
 					<attribute id="MapKey" type="FixedString" value="5783b67c-5520-11ee-8c99-0242ac120002" />
-					<attribute id="CombatGroupID" type="FixedString" value="2dbf407e-59b0-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_TUT_Start_DeadMindflayer" />
 					<attribute id="Stats" type="FixedString" value="TUT_StartMindflayer" />
-					<attribute id="LevelOverride" type="int32" value="5" />
 					<attribute id="TemplateName" type="FixedString" value="23ac81c1-597e-41c3-8c3c-6688ca399be1" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="DisplayName" type="TranslatedString" handle="040ae042-32ff-45c2-9dbf-e38023256062" version="1" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="LayerList">
@@ -2226,17 +2226,17 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="CombatGroupID" type="FixedString" value="2dbf407e-59b0-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="040ae042-32ff-45c2-9dbf-e38023256062" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="5" />
 					<attribute id="MapKey" type="FixedString" value="706f1e1a-5520-11ee-8c99-0242ac120002" />
-					<attribute id="CombatGroupID" type="FixedString" value="2dbf407e-59b0-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_TUT_Start_DeadMindflayer" />
 					<attribute id="Stats" type="FixedString" value="TUT_StartMindflayer" />
-					<attribute id="LevelOverride" type="int32" value="5" />
 					<attribute id="TemplateName" type="FixedString" value="23ac81c1-597e-41c3-8c3c-6688ca399be1" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="DisplayName" type="TranslatedString" handle="040ae042-32ff-45c2-9dbf-e38023256062" version="1" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="LayerList">
@@ -2314,9 +2314,9 @@
 					<attribute id="MapKey" type="FixedString" value="46bdca48-5558-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_MOD_Cloaker" />
 					<attribute id="SpellSet" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="MOD_CloakerUnderDark" />
 					<attribute id="TemplateName" type="FixedString" value="499f0cbf-2549-4502-894f-be3cd3733ab5" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="Stats" type="FixedString" value="MOD_CloakerUnderDark" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
@@ -3401,6 +3401,7 @@
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="c2c579d6-61bf-446b-3d83-f0e0fd25e2ac" />
 					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="CombatName" type="LSString" value="S_GOB_Goblin_INT_King_01" />
+					<attribute id="DisplayName" type="TranslatedString" handle="5db70c2c-55b3-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_MOD_Raider" />
 					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -3410,7 +3411,6 @@
 					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="6" />
-					<attribute id="DisplayName" type="TranslatedString" handle="5db70c2c-55b3-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="MapKey" type="FixedString" value="f5f3b224-55a9-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_KOB_HobKing" />
 					<attribute id="Race" type="guid" value="a234ff21-6324-4ce2-977a-ae921475c046" />
@@ -3737,22 +3737,22 @@
 				<node id="GameObjects">
 					<attribute id="AnimationSetResourceID" type="FixedString" value="c4f04d10-aa3d-e0a5-148b-f64c3c391bf4" />
 					<attribute id="AnubisConfigName" type="FixedString" value="CRE_Brewery_SpeakingKobold" />
-					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="Archetype" type="FixedString" value="ranged" />
+					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="CombatName" type="LSString" value="CRE_Brewery_Kobolds" />
-					<attribute id="Equipment" type="FixedString" value="EQP_Crossbow_Leather" />
-					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Ranger" />
-					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="DisplayName" type="TranslatedString" handle="2192230a-55b6-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Crossbow_Leather" />
+					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="56f87258-6053-6818-d4f5-64cf701eded3-_(Icon_Kobold)" />
 					<attribute id="LevelName" type="FixedString" value="CRE_Main_A" />
-					<attribute id="MapKey" type="FixedString" value="b18bdcb4-55b9-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="WLD_Main_A" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Ranger" />
 					<attribute id="SwarmGroup" type="FixedString" value="CRE_Brewery_Kobolds_Ranged" />
 					<attribute id="TemplateName" type="FixedString" value="1ad1fdb1-ea7f-492d-a72a-e282d9965b47" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<attribute id="MapKey" type="FixedString" value="b18bdcb4-55b9-11ee-8c99-0242ac120002" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -3852,18 +3852,18 @@
 				<node id="GameObjects">
 					<attribute id="AnimationSetResourceID" type="FixedString" value="c4f04d10-aa3d-e0a5-148b-f64c3c391bf4" />
 					<attribute id="AnubisConfigName" type="FixedString" value="CRE_Brewery_SpeakingKobold" />
-					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="Archetype" type="FixedString" value="ranged" />
+					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="CombatName" type="LSString" value="CRE_Brewery_Kobolds" />
-					<attribute id="Equipment" type="FixedString" value="EQP_Crossbow_Leather" />
-					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Ranger" />
-					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="DisplayName" type="TranslatedString" handle="2192230a-55b6-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Crossbow_Leather" />
+					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="56f87258-6053-6818-d4f5-64cf701eded3-_(Icon_Kobold)" />
 					<attribute id="LevelName" type="FixedString" value="CRE_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="b82c6e76-55b9-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="WLD_Main_A" />
+					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Ranger" />
 					<attribute id="SwarmGroup" type="FixedString" value="CRE_Brewery_Kobolds_Ranged" />
 					<attribute id="TemplateName" type="FixedString" value="1ad1fdb1-ea7f-492d-a72a-e282d9965b47" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -3969,15 +3969,15 @@
 					<attribute id="AnubisConfigName" type="FixedString" value="CRE_Brewery_SpeakingKobold" />
 					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="CombatName" type="LSString" value="CRE_Brewery_Kobolds" />
-					<attribute id="Equipment" type="FixedString" value="" />
-					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Melee" />
-					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="DisplayName" type="TranslatedString" handle="2192230a-55b6-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="Equipment" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="56f87258-6053-6818-d4f5-64cf701eded3-_(Icon_Kobold)" />
 					<attribute id="LevelName" type="FixedString" value="CRE_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="d9c3d908-55b3-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="WLD_Main_A" />
+					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Melee" />
 					<attribute id="SwarmGroup" type="FixedString" value="CRE_Brewery_Kobolds_Ranged" />
 					<attribute id="TemplateName" type="FixedString" value="1ad1fdb1-ea7f-492d-a72a-e282d9965b47" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -4056,15 +4056,15 @@
 					<attribute id="AnubisConfigName" type="FixedString" value="CRE_Brewery_SpeakingKobold" />
 					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="CombatName" type="LSString" value="CRE_Brewery_Kobolds" />
-					<attribute id="Equipment" type="FixedString" value="" />
-					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Melee" />
-					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="DisplayName" type="TranslatedString" handle="2192230a-55b6-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="Equipment" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="56f87258-6053-6818-d4f5-64cf701eded3-_(Icon_Kobold)" />
 					<attribute id="LevelName" type="FixedString" value="CRE_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="e8560ac2-55b3-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="WLD_Main_A" />
+					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Melee" />
 					<attribute id="SwarmGroup" type="FixedString" value="CRE_Brewery_Kobolds_Ranged" />
 					<attribute id="TemplateName" type="FixedString" value="1ad1fdb1-ea7f-492d-a72a-e282d9965b47" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -4143,15 +4143,15 @@
 					<attribute id="AnubisConfigName" type="FixedString" value="CRE_Brewery_SpeakingKobold" />
 					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="CombatName" type="LSString" value="CRE_Brewery_Kobolds" />
-					<attribute id="Equipment" type="FixedString" value="" />
-					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Melee" />
-					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="DisplayName" type="TranslatedString" handle="2192230a-55b6-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="Equipment" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="56f87258-6053-6818-d4f5-64cf701eded3-_(Icon_Kobold)" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="ef65e058-55b3-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_CRE_Brewery_Kobold8" />
+					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Melee" />
 					<attribute id="SwarmGroup" type="FixedString" value="CRE_Brewery_Kobolds_Ranged" />
 					<attribute id="TemplateName" type="FixedString" value="1ad1fdb1-ea7f-492d-a72a-e282d9965b47" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -4230,15 +4230,15 @@
 					<attribute id="AnubisConfigName" type="FixedString" value="CRE_Brewery_SpeakingKobold" />
 					<attribute id="CombatGroupID" type="FixedString" value="75391b08-026c-5ef9-9ad7-90faddd90e51" />
 					<attribute id="CombatName" type="LSString" value="CRE_Brewery_Kobolds" />
-					<attribute id="Equipment" type="FixedString" value="" />
-					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Melee" />
-					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="DisplayName" type="TranslatedString" handle="2192230a-55b6-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="Equipment" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="927ec2fe-e960-4558-bc10-a19f22e2ad69" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="56f87258-6053-6818-d4f5-64cf701eded3-_(Icon_Kobold)" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="03065278-55b4-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_CRE_Brewery_Kobold8" />
+					<attribute id="Stats" type="FixedString" value="MOD_Kobold_Melee" />
 					<attribute id="SwarmGroup" type="FixedString" value="CRE_Brewery_Kobolds_Ranged" />
 					<attribute id="TemplateName" type="FixedString" value="1ad1fdb1-ea7f-492d-a72a-e282d9965b47" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -4314,9 +4314,9 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="FOR_Bottomless_Ettercap" />
+					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h9d9747c0geaa1g4999gb855gfc1e929b377a" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
-					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="5" />
@@ -4506,9 +4506,9 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="FOR_Bottomless_Ettercap" />
+					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h9d9747c0geaa1g4999gb855gfc1e929b377a" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
-					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="5" />
@@ -4698,9 +4698,9 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="FOR_Bottomless_Ettercap" />
+					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h9d9747c0geaa1g4999gb855gfc1e929b377a" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
-					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="5" />
@@ -4892,17 +4892,17 @@
 					<attribute id="AnubisConfigName" type="FixedString" value="FOR_Bottomless_PatrolSpider" />
 					<attribute id="Archetype" type="FixedString" value="spider_phase" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfacePoison" />
-					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
 					<attribute id="BloodType" type="FixedString" value="" />
+					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="56fddcbe-5705-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Spider_Summon" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="7" />
-					<attribute id="Stats" type="FixedString" value="MOD_Spider_Soldier" />
 					<attribute id="MapKey" type="FixedString" value="8897c30a-56a8-11ee-8c99-0242ac120002" />
-					<attribute id="DisplayName" type="TranslatedString" handle="56fddcbe-5705-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Name" type="LSString" value="S_FOR_Bottomless_Spider_04" />
+					<attribute id="Stats" type="FixedString" value="MOD_Spider_Soldier" />
 					<attribute id="TemplateName" type="FixedString" value="5acff443-0e4f-4d26-ae1c-deb640d2f729" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
@@ -5083,8 +5083,8 @@
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="melee_ignoresurfacedamage" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="ca798d09-607c-fca4-f035-baf734afe78c" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
+					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="ca798d09-607c-fca4-f035-baf734afe78c-EQP_Bugbear_MorningStar_(Icon_Bugbear_Male)" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
@@ -5463,9 +5463,9 @@
 				<node id="GameObjects">
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
-					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="3276e710-50b0-05f0-51ab-3e6f410d8873" />
+					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="CombatName" type="LSString" value="S_GOB_Checkpoint_Goblin_Melee_02" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h5c9f110eg1d3ag4276g8777ge2c2f1446cd4" version="3" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Goblin_Greataxe_HelmetMetal" />
@@ -5605,8 +5605,8 @@
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
-					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="3276e710-50b0-05f0-51ab-3e6f410d8873" />
+					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="CombatName" type="LSString" value="S_GOB_Checkpoint_Goblin_Melee_02" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h5c9f110eg1d3ag4276g8777ge2c2f1446cd4" version="3" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Goblin_Greataxe_HelmetMetal" />
@@ -5748,8 +5748,8 @@
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="False" />
 					<attribute id="CanOpenDoors" type="bool" value="False" />
-					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="0d887cbc-1e58-3ee5-7af1-4f58fe54897a" />
+					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="DefaultDialog" type="FixedString" value="3baa9bb1-439c-f3d4-f0f1-156ef7061fc3" />
 					<attribute id="DisplayName" type="TranslatedString" handle="e872735c-5738-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Unarmed" />
@@ -5856,10 +5856,10 @@
 					<attribute id="ActivationGroupId" type="FixedString" value="GOB_WolfPens" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
-					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="CanClimbLadders" type="bool" value="False" />
 					<attribute id="CanOpenDoors" type="bool" value="False" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="0d887cbc-1e58-3ee5-7af1-4f58fe54897a" />
+					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="DefaultDialog" type="FixedString" value="3baa9bb1-439c-f3d4-f0f1-156ef7061fc3" />
 					<attribute id="DisplayName" type="TranslatedString" handle="e872735c-5738-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Unarmed" />
@@ -5968,13 +5968,13 @@
 					<attribute id="ActivationGroupId" type="FixedString" value="UND_MonkAmulet_ElementalActivation" />
 					<attribute id="CombatGroupID" type="FixedString" value="d4394e68-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="d431467a-5738-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_MOD_KethericCity_LavaElemental" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="TemplateName" type="FixedString" value="cad0b684-52e1-48d2-9ebd-4ff0ebe301d3" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -6030,13 +6030,13 @@
 					<attribute id="ActivationGroupId" type="FixedString" value="UND_MonkAmulet_ElementalActivation" />
 					<attribute id="CombatGroupID" type="FixedString" value="d4394e68-69dc-11ee-8c99-0242ac120002" />
 					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="cd21ff78-5738-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_KethericCity_LavaElemental" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="TemplateName" type="FixedString" value="cad0b684-52e1-48d2-9ebd-4ff0ebe301d3" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -6090,16 +6090,16 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CanClimbLadders" type="bool" value="False" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ab474e9e-5738-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="UND_Minotaur_ClubAmulet" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="f6ad70fa-41a7-0083-c4a2-ee69a32f1bea-UND_Minotaur_ClubAmulet_(Icon_Minotaur)" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="c8b3d7c6-5734-11ee-8c99-0242ac120002" />
-					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="Name" type="LSString" value="S_UND_Minotaur_001" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="TemplateName" type="FixedString" value="867c3061-624e-4b02-babb-a23e743fb5d3" />
-					<attribute id="DisplayName" type="TranslatedString" handle="ab474e9e-5738-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
@@ -6328,11 +6328,11 @@
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="IsBoss" type="bool" value="False" />
-					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="7" />
 					<attribute id="MapKey" type="FixedString" value="53ed6a92-5757-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_MOD_KethericCity_AdamantineGolem" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="SpellSet" type="FixedString" value="" />
 					<attribute id="Stats" type="FixedString" value="MOD_GuardGolem" />
 					<attribute id="TemplateName" type="FixedString" value="adcae7d4-575b-11ee-8c99-0242ac120002" />
@@ -7012,12 +7012,12 @@
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="PLA_GnollsAndZhents" />
 					<attribute id="Archetype" type="FixedString" value="gnoll_melee" />
-					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="37984c02-dd18-668c-a9dd-8cf089db8bf9" />
+					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="DefaultDialog" type="FixedString" value="7abf2268-e2c1-9d67-26a3-b7d8553b0801" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
@@ -7151,12 +7151,12 @@
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="PLA_GnollsAndZhents" />
 					<attribute id="Archetype" type="FixedString" value="gnoll_melee" />
-					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="37984c02-dd18-668c-a9dd-8cf089db8bf9" />
+					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="DefaultDialog" type="FixedString" value="7abf2268-e2c1-9d67-26a3-b7d8553b0801" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
@@ -7291,11 +7291,11 @@
 					<attribute id="ActivationGroupId" type="FixedString" value="PLA_GnollsAndZhents" />
 					<attribute id="Archetype" type="FixedString" value="gnoll_melee" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
-					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="37984c02-dd18-668c-a9dd-8cf089db8bf9" />
+					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="DefaultDialog" type="FixedString" value="7abf2268-e2c1-9d67-26a3-b7d8553b0801" />
 					<attribute id="Equipment" type="FixedString" value="" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
@@ -7429,13 +7429,13 @@
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="PLA_GnollsAndZhents" />
 					<attribute id="AiHint" type="guid" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="Archetype" type="FixedString" value="gnoll_ranger" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="1108307c-2e34-90b6-74ce-22b2dfd48d80" />
+					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="DefaultDialog" type="FixedString" value="8013e4c9-9e26-ccbb-352a-8ee4eb508cd6" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
@@ -7569,13 +7569,13 @@
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="PLA_GnollsAndZhents" />
 					<attribute id="AiHint" type="guid" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="Archetype" type="FixedString" value="gnoll_ranger" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="1108307c-2e34-90b6-74ce-22b2dfd48d80" />
+					<attribute id="CombatGroupID" type="FixedString" value="e74ce9c0-5991-11ee-8c99-0242ac120002" />
 					<attribute id="DefaultDialog" type="FixedString" value="8013e4c9-9e26-ccbb-352a-8ee4eb508cd6" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
@@ -7883,8 +7883,8 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b18546b0-9607-be55-b616-5706b37d3927" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hdc772fdfg3a15g4a0bg8247gdd51da0a8d6f" version="1" />
 					<attribute id="CombatGroupID" type="FixedString" value="147151c3-c960-029b-9505-e87a334fa0fc" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hdc772fdfg3a15g4a0bg8247gdd51da0a8d6f" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Duergar_Crossbow_Dagger_StuddedLeather" />
 					<attribute id="Faction" type="guid" value="b83a7d7a-ee94-b12d-777d-360348d123a5" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -7973,8 +7973,8 @@
 				<node id="GameObjects">
 					<attribute id="AiHint" type="guid" value="3cae4ff5-e9c0-485b-b695-f8830961a781" />
 					<attribute id="Archetype" type="FixedString" value="melee_smart" />
-					<attribute id="CombatGroupID" type="FixedString" value="147151c3-c960-029b-9505-e87a334fa0fc" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="8b600f36-598f-11ee-8c99-0242ac120002" />
+					<attribute id="CombatGroupID" type="FixedString" value="147151c3-c960-029b-9505-e87a334fa0fc" />
 					<attribute id="DevComment" type="LSString" value="Loyalist of the Absolute; Overseeing the excavation operation." />
 					<attribute id="DisplayName" type="TranslatedString" handle="d9405028-598d-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_MOD_DuergarGeneral" />
@@ -7982,8 +7982,8 @@
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Dwarf_Female" />
 					<attribute id="Icon" type="FixedString" value="ba180e09-d354-9495-d105-87c64eb83245-EQP_Duergar_Hammer_B_Leather_DW_(Icon_Dwarf_Female)" />
-					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="IsEquipmentLootable" type="bool" value="False" />
+					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="IsPlayer" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="d892d88a-5802-11ee-8c99-0242ac120002" />
@@ -8282,9 +8282,9 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b18546b0-9607-be55-b616-5706b37d3927" />
+					<attribute id="CombatGroupID" type="FixedString" value="147151c3-c960-029b-9505-e87a334fa0fc" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hdc772fdfg3a15g4a0bg8247gdd51da0a8d6f" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Duergar_Crossbow_Dagger_StuddedLeather" />
-					<attribute id="CombatGroupID" type="FixedString" value="147151c3-c960-029b-9505-e87a334fa0fc" />
 					<attribute id="Faction" type="guid" value="b83a7d7a-ee94-b12d-777d-360348d123a5" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="b18546b0-9607-be55-b616-5706b37d3927-EQP_Duergar_Crossbow_Dagger_StuddedLeather_(Icon_Dwarf_Male)" />
@@ -8369,13 +8369,13 @@
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="mage_smart" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="033c5316-5837-11ee-8c99-0242ac120002" />
+					<attribute id="CombatGroupID" type="FixedString" value="147151c3-c960-029b-9505-e87a334fa0fc" />
 					<attribute id="DisplayName" type="TranslatedString" handle="97b09e04-5804-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_MOD_DuergarTrueSoul" />
-					<attribute id="CombatGroupID" type="FixedString" value="147151c3-c960-029b-9505-e87a334fa0fc" />
 					<attribute id="Faction" type="guid" value="b83a7d7a-ee94-b12d-777d-360348d123a5" />
 					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="IsEquipmentLootable" type="bool" value="False" />
 					<attribute id="Icon" type="FixedString" value="e4432124-ff57-aa44-1670-02856f5ea186-EQP_Halberd_Robe_(Icon_Dwarf_Female)" />
+					<attribute id="IsEquipmentLootable" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="04d344e8-5803-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_DuergarRebelPatroller_01" />

@@ -7,12 +7,12 @@
 				/// COMMENT ENEMIES IN LITTLE HOUSE
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="21264586-69e3-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="294fc7b4-69e3-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="SCL_WRAITH_SLAVESOUL01" />
-					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="StartCombatRange" type="float" value="9" />
 					<attribute id="TemplateName" type="FixedString" value="066133a8-5dce-4636-8ba1-13efb1140c54" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -39,11 +39,11 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="21264586-69e3-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="420951f8-69e3-11ee-8c99-0242ac120002" />
-					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Name" type="LSString" value="SCL_WRAITH_SLAVESOUL02" />
 					<attribute id="StartCombatRange" type="float" value="9" />
 					<attribute id="TemplateName" type="FixedString" value="066133a8-5dce-4636-8ba1-13efb1140c54" />
@@ -71,14 +71,14 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="21264586-69e3-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="b75f211e-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="29d6a954-69e4-11ee-8c99-0242ac120002" />
-					<attribute id="DisplayName" type="TranslatedString" handle="b75f211e-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Name" type="LSString" value="SCL_GHOUL_LESSERDEVIL" />
 					<attribute id="Stats" type="FixedString" value="MOD_GHOUL_LESSERDEVIL" />
-					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="TemplateName" type="FixedString" value="04c73996-d79f-45a3-bdf0-58d14830f17f" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
@@ -199,16 +199,16 @@
 				</node>
 				/// COMMENT HARPIES IN THE LIGHTHOUSE AMBUSH
 				<node id="GameObjects">
-					<attribute id="CombatGroupID" type="FixedString" value="62cb4e46-c71c-6e47-2f34-57b99669a5d9" />
-					<attribute id="Faction" type="guid" value="0dac338c-e1bc-4dbe-eb80-69f7cbe9a568" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9561b163-d9d9-0c23-f7db-f91d86ab3bb1" />
+					<attribute id="CombatGroupID" type="FixedString" value="62cb4e46-c71c-6e47-2f34-57b99669a5d9" />
 					<attribute id="CombatName" type="LSString" value="S_DEN_Harpy_Melee_01" />
 					<attribute id="DisplayName" type="TranslatedString" handle="9e52e2fa-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="0dac338c-e1bc-4dbe-eb80-69f7cbe9a568" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="9561b163-d9d9-0c23-f7db-f91d86ab3bb1-_(Icon_Harpy)" />
 					<attribute id="IsLootable" type="bool" value="True" />
@@ -441,17 +441,17 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="CombatGroupID" type="FixedString" value="62cb4e46-c71c-6e47-2f34-57b99669a5d9" />
-					<attribute id="Faction" type="guid" value="0dac338c-e1bc-4dbe-eb80-69f7cbe9a568" />
 					<attribute id="Archetype" type="FixedString" value="harpy_melee" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5f3b5801-1e8d-9619-11f9-ed30a816fa58" />
+					<attribute id="CombatGroupID" type="FixedString" value="62cb4e46-c71c-6e47-2f34-57b99669a5d9" />
 					<attribute id="CombatName" type="LSString" value="S_DEN_Harpy_Melee_02" />
 					<attribute id="DisplayName" type="TranslatedString" handle="9e52e2fa-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="0dac338c-e1bc-4dbe-eb80-69f7cbe9a568" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="5f3b5801-1e8d-9619-11f9-ed30a816fa58-_(Icon_Harpy)" />
 					<attribute id="IsLootable" type="bool" value="True" />
@@ -708,17 +708,17 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="CombatGroupID" type="FixedString" value="62cb4e46-c71c-6e47-2f34-57b99669a5d9" />
-					<attribute id="Faction" type="guid" value="0dac338c-e1bc-4dbe-eb80-69f7cbe9a568" />
 					<attribute id="Archetype" type="FixedString" value="harpy_melee" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5f3b5801-1e8d-9619-11f9-ed30a816fa58" />
+					<attribute id="CombatGroupID" type="FixedString" value="62cb4e46-c71c-6e47-2f34-57b99669a5d9" />
 					<attribute id="CombatName" type="LSString" value="S_DEN_Harpy_Melee_02" />
 					<attribute id="DisplayName" type="TranslatedString" handle="9e52e2fa-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="0dac338c-e1bc-4dbe-eb80-69f7cbe9a568" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="5f3b5801-1e8d-9619-11f9-ed30a816fa58-_(Icon_Harpy)" />
 					<attribute id="IsLootable" type="bool" value="True" />
@@ -984,12 +984,12 @@
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="IsBoss" type="bool" value="True" />
-					<attribute id="Stats" type="FixedString" value="MOD_ARCHAIC_DEMON" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="9" />
 					<attribute id="MapKey" type="FixedString" value="3efc2db8-69ee-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ARCHAIC_DEMON_BOSS" />
 					<attribute id="PortraitVisualResourceID" type="FixedString" value="f3f880f9-ea48-f6b7-3131-50cfe2c86a9f" />
+					<attribute id="Stats" type="FixedString" value="MOD_ARCHAIC_DEMON" />
 					<attribute id="TemplateName" type="FixedString" value="04c73996-d79f-45a3-bdf0-58d14830f17f" />
 					<attribute id="Title" type="TranslatedString" handle="h631aa69fge32ag4899g8c47ga61f7f2f5a53" version="2" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -1218,14 +1218,14 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="4bbebe1c-69ee-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="b75f211e-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="3a9fbb86-6a11-11ee-8c99-0242ac120002" />
-					<attribute id="DisplayName" type="TranslatedString" handle="b75f211e-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Name" type="LSString" value="SCL_GHOULFLY_BIGHOUSE01" />
 					<attribute id="Stats" type="FixedString" value="MOD_GHOUL_SCL" />
-					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="TemplateName" type="FixedString" value="04c73996-d79f-45a3-bdf0-58d14830f17f" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
@@ -1358,14 +1358,14 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="4bbebe1c-69ee-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="b75f211e-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="297e534e-6a11-11ee-8c99-0242ac120002" />
-					<attribute id="DisplayName" type="TranslatedString" handle="b75f211e-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Name" type="LSString" value="SCL_GHOULFLY_BIGHOUSE02" />
 					<attribute id="Stats" type="FixedString" value="MOD_GHOUL_SCL" />
-					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="TemplateName" type="FixedString" value="04c73996-d79f-45a3-bdf0-58d14830f17f" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
@@ -1592,23 +1592,23 @@
 				</node>
 				/// COMMENT TRUE SOUL ASSASSIN BOSS
 				<node id="GameObjects">
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="7a7a8250-6a24-11ee-8c99-0242ac120002" />
 					<attribute id="Archetype" type="FixedString" value="necromancer_melee" />
-					<attribute id="DisplayName" type="TranslatedString" handle="b20a14d2-6a20-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="7a7a8250-6a24-11ee-8c99-0242ac120002" />
 					<attribute id="CombatGroupID" type="FixedString" value="8c88e206-6a20-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="b20a14d2-6a20-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="Equipment" type="FixedString" value="EQP_MOD_TRUESOUL_ASSASSIN_SCL" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="499b4a24-bc5e-6ea8-8336-a5688c82bcd6-_(Icon_HalfElf_Female)" />
-					<attribute id="IsLootable" type="bool" value="True" />
-					<attribute id="Equipment" type="FixedString" value="EQP_MOD_TRUESOUL_ASSASSIN_SCL" />
 					<attribute id="IsEquipmentLootable" type="bool" value="False" />
-					<attribute id="Stats" type="FixedString" value="MOD_TRUESOUL_ASSASSIN_MIKA" />
-					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="LightID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="MapKey" type="FixedString" value="94e9cb22-6a20-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_TRUESOUL_ASSASSIN_BOSS" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="4b92327f-0dee-ee91-60e3-c764920db879" />
+					<attribute id="Stats" type="FixedString" value="MOD_TRUESOUL_ASSASSIN_MIKA" />
 					<attribute id="TemplateName" type="FixedString" value="e9bf55b6-59f8-4bb1-ad4e-06462a3d3467" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
@@ -1785,9 +1785,9 @@
 					<attribute id="Archetype" type="FixedString" value="mage" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="6832db1a-f848-bbc5-0f88-dedddae07977" />
 					<attribute id="CombatGroupID" type="FixedString" value="8c88e206-6a20-11ee-8c99-0242ac120002" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h331032ddg55f6g474dg9c31g8e18cb667e4e" version="3" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Staff_Magic_Scalemail" />
+					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="6832db1a-f848-bbc5-0f88-dedddae07977-EQP_Staff_Magic_Scalemail_(Icon_Drow_Female)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
@@ -1851,9 +1851,9 @@
 					<attribute id="Archetype" type="FixedString" value="mage" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="6832db1a-f848-bbc5-0f88-dedddae07977" />
 					<attribute id="CombatGroupID" type="FixedString" value="8c88e206-6a20-11ee-8c99-0242ac120002" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h331032ddg55f6g474dg9c31g8e18cb667e4e" version="3" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Staff_Magic_Scalemail" />
+					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="6832db1a-f848-bbc5-0f88-dedddae07977-EQP_Staff_Magic_Scalemail_(Icon_Drow_Female)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
@@ -1915,9 +1915,9 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9e7c9934-561f-8e00-14ae-ba0fed5833b2" />
+					<attribute id="CombatGroupID" type="FixedString" value="8c88e206-6a20-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h40bdce9cg4292g4e37g9674g8b48566cd10c" version="2" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Halberd_Plate_Shortbow" />
-					<attribute id="CombatGroupID" type="FixedString" value="8c88e206-6a20-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="9e7c9934-561f-8e00-14ae-ba0fed5833b2-EQP_Halberd_Plate_Shortbow_(Icon_Drow_Female)" />
@@ -1977,9 +1977,9 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9e7c9934-561f-8e00-14ae-ba0fed5833b2" />
+					<attribute id="CombatGroupID" type="FixedString" value="8c88e206-6a20-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h40bdce9cg4292g4e37g9674g8b48566cd10c" version="2" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Halberd_Plate_Shortbow" />
-					<attribute id="CombatGroupID" type="FixedString" value="8c88e206-6a20-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="9e7c9934-561f-8e00-14ae-ba0fed5833b2-EQP_Halberd_Plate_Shortbow_(Icon_Drow_Female)" />
@@ -2043,10 +2043,10 @@
 					<attribute id="CombatGroupID" type="FixedString" value="d874601f-7d85-4bdd-8e70-3b89d6a5d05b" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="Stats" type="FixedString" value="MOD_DEATHSHEPHERD_SCL" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="01b2f21a-6a2b-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_SHEPHERD_PARTY_01" />
+					<attribute id="Stats" type="FixedString" value="MOD_DEATHSHEPHERD_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="f05367f6-78f2-4631-996e-7e21912bbb78" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
@@ -2247,7 +2247,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="d874601f-7d85-4bdd-8e70-3b89d6a5d05b" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -2257,6 +2256,7 @@
 					<attribute id="MapKey" type="FixedString" value="b417eeae-6a2d-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_PARTY01" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -2367,7 +2367,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="d874601f-7d85-4bdd-8e70-3b89d6a5d05b" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -2377,6 +2376,7 @@
 					<attribute id="MapKey" type="FixedString" value="cc620cb0-6a2d-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_PARTY02" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -2488,9 +2488,9 @@
 				/// COMMENT MASTER SURGEON TEAM 
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="act2_TWN_surgeon_nurse" />
+					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h7ab09bddg6b2dg448fg8b8cg0985c62905ff" version="2" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Nurse_Trepan" />
-					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="5dbc3b12-9a6f-c7d3-1f5d-73d202ff243c-EQP_Nurse_Trepan_(Icon_Nightmare_Nurse)" />
@@ -2545,9 +2545,9 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="act2_TWN_surgeon_nurse" />
+					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h7ab09bddg6b2dg448fg8b8cg0985c62905ff" version="2" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Nurse_Trepan" />
-					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="5dbc3b12-9a6f-c7d3-1f5d-73d202ff243c-EQP_Nurse_Trepan_(Icon_Nightmare_Nurse)" />
@@ -2602,9 +2602,9 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="act2_TWN_surgeon_nurse" />
+					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h7ab09bddg6b2dg448fg8b8cg0985c62905ff" version="2" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Nurse_Trepan" />
-					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="5dbc3b12-9a6f-c7d3-1f5d-73d202ff243c-EQP_Nurse_Trepan_(Icon_Nightmare_Nurse)" />
@@ -2660,9 +2660,9 @@
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="act2_TWN_surgeon_nurse" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="68fb3f7e-0203-09ee-5189-1191543dd048" />
+					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h0dc6eb25gcca9g4977ga523g4e995c157846" version="2" />
 					<attribute id="Equipment" type="FixedString" value="TWN_MAG_Nurse_Bonesaw" />
-					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="68fb3f7e-0203-09ee-5189-1191543dd048-TWN_MAG_Nurse_Bonesaw_(Icon_Nightmare_Nurse)" />
@@ -2819,9 +2819,9 @@
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="act2_TWN_surgeon_nurse" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="68fb3f7e-0203-09ee-5189-1191543dd048" />
+					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h0dc6eb25gcca9g4977ga523g4e995c157846" version="2" />
 					<attribute id="Equipment" type="FixedString" value="TWN_MAG_Nurse_Bonesaw" />
-					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="68fb3f7e-0203-09ee-5189-1191543dd048-TWN_MAG_Nurse_Bonesaw_(Icon_Nightmare_Nurse)" />
@@ -2975,341 +2975,22 @@
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="35bc7e4a-6a36-11ee-8c99-0242ac120002" version="4" />
-					<attribute id="CombatGroupID" type="FixedString" value="a5b71794-6a33-11ee-8c99-0242ac120002" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
-					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="IsBoss" type="bool" value="True" />					
-					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
-					<attribute id="Archetype" type="FixedString" value="act2_TWN_surgeon" />
-					<attribute id="IsLootable" type="bool" value="True" />
-					<attribute id="LevelOverride" type="int32" value="9" />
-					<attribute id="Stats" type="FixedString" value="MOD_DIRECTOR_ZENO_SCL" />
-					<attribute id="MapKey" type="FixedString" value="3effdfc4-6a36-11ee-8c99-0242ac120002" />
-					<attribute id="Name" type="LSString" value="MOD_SCL_SURGEON_DIRECTOR" />
-					<attribute id="TemplateName" type="FixedString" value="d403123c-6ab6-11ee-8a06-0242ac120002" />
-					<attribute id="Title" type="TranslatedString" handle="hbb328a22g3cc3g4bd4g8a38g7f74aafd00db" version="1" />
-					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
-					<attribute id="AiHint" type="guid" value="45a231e4-e94f-4b0e-41a9-af2ddf1ab544" />
-					<children>
-						<node id="ItemList">
-							<children>								
-								<node id="Item">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="Amount" type="int32" value="1" />
-									<attribute id="CanBePickpocketed" type="bool" value="True" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="IsDroppedOnDeath" type="bool" value="True" />
-									<attribute id="IsTradable" type="uint8" value="0" />
-									<attribute id="ItemName" type="LSString" value="S_HAV_AncientFist_ImportantItem_Surgeon" />
-									<attribute id="LevelName" type="LSString" value="SCL_Main_A" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<attribute id="TemplateID" type="FixedString" value="8f98a7e7-c773-4b58-9127-5cf79b9206e9" />
-									<attribute id="Type" type="uint8" value="2" />
-									<attribute id="UUID" type="FixedString" value="1329c22c-d23a-4d31-96b0-6b734074f1dc" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-						<node id="LayerList">
-							<children>
-								<node id="Layers">
-									<children>
-										<node id="Object">
-											<attribute id="MapKey" type="FixedString" value="SCL_Main_A" />
-											<children>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="1afdce5a-4c84-f16d-c829-ecfae43eb3f4" />
-												</node>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="49555d68-a431-a797-f3b6-28430787a0d2" />
-												</node>
-											</children>
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-						<node id="LocomotionParams" />
-						<node id="SkillList">
-							<children>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Target_SurgeryInstruRequest_Surgeon" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Projectile_WitchBolt_Zeno" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Projectile_RayOfEnfeeblement_Zeno" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Target_Multiattack_Surgeon" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="40" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Target_Claws_Surgeon" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Shout_Dash_NPC" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Target_AnimateDead_Surgeon" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-						<node id="Tags">
-							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="b47643e0-583c-4808-08b1-d3f605b6a9b0" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="04a90774-cd81-4173-1889-0f1cc87d2aec" />
-								</node>
-							</children>
-						</node>
-						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="7.554 27.55955 -983.34557" />
-							<attribute id="RotationQuat" type="fvec4" value="0 -0.636196 0 0.7715275" />
-							<attribute id="Scale" type="float" value="1.5" />
-						</node>
-						<node id="Treasures">
-							<children>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="Supplies_Camp_Pack" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="Supplies_Camp_Pack" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="MOD_LOOT_GOLD" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="MOD_LOOT_GOLD" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="MOD_LOOT_GOLD" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="GEN_TadpoleReward" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="Valuables_Gems" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="Valuables_Gems" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="Valuables_Gems" />
-								</node>
-								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="Valuables_Gems" />
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
+				
 				/// COMMENT IMPRISONED DEMON
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="6180ea9e-6a44-11ee-8c99-0242ac120002" version="2" />
-					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="CombatGroupID" type="FixedString" value="1c081cf1-b3dd-4880-88c0-e91ac765b46e" />
+					<attribute id="DisplayName" type="TranslatedString" handle="6180ea9e-6a44-11ee-8c99-0242ac120002" version="2" />
 					<attribute id="Faction" type="guid" value="5bc4c87b-eb79-4d63-ffaf-deff2f155fbc" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="11" />
-					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="MapKey" type="FixedString" value="1f7dc5d2-6a3e-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_IMPRISONED_DEMON_BOSS" />
+					<attribute id="Stats" type="FixedString" value="MOD_IMPRISONED_DEMON_BOSS_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="ced6bfeb-8f6f-47d0-943f-77833f643318" />
 					<attribute id="Title" type="TranslatedString" handle="h01b96698gcbd9g4aabgb3d6g047723d2f1cc" version="1" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="Stats" type="FixedString" value="MOD_IMPRISONED_DEMON_BOSS_SCL" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209029" />
 					<children>
 						<node id="LayerList">
@@ -3846,15 +3527,15 @@
 					<attribute id="Archetype" type="FixedString" value="melee" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="c1d0a6a0-6616-cdfd-c4f2-466508b92b9f" />
 					<attribute id="CombatGroupID" type="FixedString" value="1c081cf1-b3dd-4880-88c0-e91ac765b46e" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e103771e-6a99-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="5bc4c87b-eb79-4d63-ffaf-deff2f155fbc" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="c1d0a6a0-6616-cdfd-c4f2-466508b92b9f-_(Icon_Meenlock)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
-					<attribute id="DisplayName" type="TranslatedString" handle="e103771e-6a99-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="MapKey" type="FixedString" value="a6a81e58-6a99-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ACIDPOOL_PARASYTE_MEENLOCK_01" />
-					<attribute id="Stats" type="FixedString" value="MOD_SCL_MEENLOCK_ACIDPOOL" />
 					<attribute id="StartCombatRange" type="float" value="12" />
+					<attribute id="Stats" type="FixedString" value="MOD_SCL_MEENLOCK_ACIDPOOL" />
 					<attribute id="TemplateName" type="FixedString" value="cc1b177d-5053-4472-b1e2-8c3e42fc17da" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -3890,15 +3571,15 @@
 					<attribute id="Archetype" type="FixedString" value="melee" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="c1d0a6a0-6616-cdfd-c4f2-466508b92b9f" />
 					<attribute id="CombatGroupID" type="FixedString" value="1c081cf1-b3dd-4880-88c0-e91ac765b46e" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e103771e-6a99-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="5bc4c87b-eb79-4d63-ffaf-deff2f155fbc" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="c1d0a6a0-6616-cdfd-c4f2-466508b92b9f-_(Icon_Meenlock)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="c5b7cb72-6a99-11ee-8c99-0242ac120002" />
-					<attribute id="DisplayName" type="TranslatedString" handle="e103771e-6a99-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ACIDPOOL_PARASYTE_MEENLOCK_02" />
-					<attribute id="Stats" type="FixedString" value="MOD_SCL_MEENLOCK_ACIDPOOL" />
 					<attribute id="StartCombatRange" type="float" value="12" />
+					<attribute id="Stats" type="FixedString" value="MOD_SCL_MEENLOCK_ACIDPOOL" />
 					<attribute id="TemplateName" type="FixedString" value="cc1b177d-5053-4472-b1e2-8c3e42fc17da" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -3933,17 +3614,17 @@
 				/// COMMENT UNDEADS GRAVEYARD
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="deathShepherd" />
-					<attribute id="CombatGroupID" type="FixedString" value="35b42782-6a9e-11ee-8c99-0242ac120002" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
-					<attribute id="DisplayName" type="TranslatedString" handle="4d430392-6a9d-11ee-8c99-0242ac120002" version="1" />
-					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="Stats" type="FixedString" value="MOD_DEATHWALKER_BROOK_SCL" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="81b24ed4-6a9e-11ee-8c99-0242ac120002" />
-					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
+					<attribute id="CombatGroupID" type="FixedString" value="35b42782-6a9e-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="4d430392-6a9d-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_BROOK_DEATHWALKER" />
+					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
+					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="IsEquipmentLootable" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="73086a0a-6aa1-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_SHEPHERD_WALKER" />
+					<attribute id="Stats" type="FixedString" value="MOD_DEATHWALKER_BROOK_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="f05367f6-78f2-4631-996e-7e21912bbb78" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
@@ -4086,7 +3767,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="35b42782-6a9e-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -4096,6 +3776,7 @@
 					<attribute id="MapKey" type="FixedString" value="803912ba-6aa1-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_GRAVEYARD01" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -4206,7 +3887,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="35b42782-6a9e-11ee-8c99-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -4216,6 +3896,7 @@
 					<attribute id="MapKey" type="FixedString" value="9f227310-6aa1-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_GRAVEYARD02" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -4484,18 +4165,18 @@
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="melee_smart" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5be8486a-6adb-11ee-b962-0242ac120002" />
+					<attribute id="CombatGroupID" type="FixedString" value="13b30f5e-6ada-11ee-b962-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="c7f95788-6adb-11ee-b962-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_TRUESOUL_TWIN_BRUTE" />
-					<attribute id="CombatGroupID" type="FixedString" value="13b30f5e-6ada-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="a2729572-2571-914c-cbdb-56f0ac74d296-UND_KC_Nere_(Icon_Drow_Male)" />
+					<attribute id="IsEquipmentLootable" type="bool" value="True" />
 					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="8" />
 					<attribute id="MapKey" type="FixedString" value="ff9df2ea-6ad9-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="SMOD_SCL_TRUESOUL_TWIN_BRUTE" />
-					<attribute id="IsEquipmentLootable" type="bool" value="True" />
 					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="4350b66a-f56a-4f2a-9c60-b5a56609afa4" />
 					<attribute id="SpellSet" type="FixedString" value="CommonNPCActions_NoShove" />
 					<attribute id="Stats" type="FixedString" value="MOD_TRUESOUL_TWIN_BRUTE_SCL" />
@@ -4689,14 +4370,14 @@
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="ranged_smart" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5be8486a-6adb-11ee-b962-0242ac120002" />
+					<attribute id="CombatGroupID" type="FixedString" value="13b30f5e-6ada-11ee-b962-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="bfb4b144-6adb-11ee-b962-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_TRUESOUL_TWIN_POISONER" />
-					<attribute id="CombatGroupID" type="FixedString" value="13b30f5e-6ada-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="a2729572-2571-914c-cbdb-56f0ac74d296-UND_KC_Nere_(Icon_Drow_Male)" />
-					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="IsEquipmentLootable" type="bool" value="True" />
+					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="8" />
 					<attribute id="MapKey" type="FixedString" value="bfb4b144-6adb-11ee-b962-0242ac120002" />
@@ -4982,11 +4663,11 @@
 					<attribute id="CombatGroupID" type="FixedString" value="13b30f5e-6ada-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="Stats" type="FixedString" value="MOD_MASTIFF_GREAT_SCL" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="8fcc888c-6ade-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_MASTIFF_BOILLERY01" />
 					<attribute id="StartCombatRange" type="float" value="9" />
+					<attribute id="Stats" type="FixedString" value="MOD_MASTIFF_GREAT_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="e72703ea-c0dc-44a1-aab8-d7b7269f7458" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -5015,10 +4696,10 @@
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
-					<attribute id="Stats" type="FixedString" value="MOD_MASTIFF_GREAT_SCL" />
 					<attribute id="MapKey" type="FixedString" value="d065e438-6ade-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_MASTIFF_BOILLERY02" />
 					<attribute id="StartCombatRange" type="float" value="9" />
+					<attribute id="Stats" type="FixedString" value="MOD_MASTIFF_GREAT_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="e72703ea-c0dc-44a1-aab8-d7b7269f7458" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -5046,9 +4727,9 @@
 					<attribute id="Archetype" type="FixedString" value="mage" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="6832db1a-f848-bbc5-0f88-dedddae07977" />
 					<attribute id="CombatGroupID" type="FixedString" value="13b30f5e-6ada-11ee-b962-0242ac120002" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h331032ddg55f6g474dg9c31g8e18cb667e4e" version="3" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Staff_Magic_Scalemail" />
+					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="6832db1a-f848-bbc5-0f88-dedddae07977-EQP_Staff_Magic_Scalemail_(Icon_Drow_Female)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
@@ -5110,8 +4791,8 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="CombatGroupID" type="FixedString" value="13b30f5e-6ada-11ee-b962-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d-_(Icon_Zombie)" />
@@ -5231,8 +4912,8 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="CombatGroupID" type="FixedString" value="13b30f5e-6ada-11ee-b962-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d-_(Icon_Zombie)" />
@@ -5354,16 +5035,16 @@
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="melee" />
 					<attribute id="CombatGroupID" type="FixedString" value="3a1ea5cc-6aee-11ee-b962-0242ac120002" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h3e86a4a8gf456g407cga636g18342669a649" version="1" />
+					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
-					<attribute id="Stats" type="FixedString" value="MOD_FLESHGOLEM_SLC" />
 					<attribute id="GroupID" type="uint32" value="43227" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="7" />
 					<attribute id="MapKey" type="FixedString" value="44f914c8-6aee-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SLC_FLESHGOLEM" />
 					<attribute id="Race" type="guid" value="a20b3cf6-b71f-45f5-9daf-9d2f5d845816" />
+					<attribute id="Stats" type="FixedString" value="MOD_FLESHGOLEM_SLC" />
 					<attribute id="TemplateName" type="FixedString" value="6597824a-fc73-474a-b594-b3bbd8591016" />
 					<attribute id="Title" type="TranslatedString" handle="h158bd5b4gd2b1g496bga8bdg8fe273277aa9" version="1" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -5469,7 +5150,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="3a1ea5cc-6aee-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -5479,6 +5159,7 @@
 					<attribute id="MapKey" type="FixedString" value="f84cca10-6aee-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_CATACOMBS01" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -5589,7 +5270,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="3a1ea5cc-6aee-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -5599,6 +5279,7 @@
 					<attribute id="MapKey" type="FixedString" value="36217bf6-6aef-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_CATACOMBS02" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -5709,7 +5390,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="3a1ea5cc-6aee-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -5719,6 +5399,7 @@
 					<attribute id="MapKey" type="FixedString" value="5b602926-6aef-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_CATACOMBS03" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -5829,7 +5510,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="3a1ea5cc-6aee-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -5839,6 +5519,7 @@
 					<attribute id="MapKey" type="FixedString" value="767f603c-6aef-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_CATACOMBS04" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -6272,20 +5953,20 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="bulette" />
-					<attribute id="DisplayName" type="TranslatedString" handle="fba59c06-6b01-11ee-b962-0242ac120002" version="1" />
 					<attribute id="CombatGroupID" type="FixedString" value="76ed1d72-6b01-11ee-b962-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="fba59c06-6b01-11ee-b962-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="IsBoss" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="9" />
-					<attribute id="VFXScale" type="float" value="2.55" />
 					<attribute id="MapKey" type="FixedString" value="307934b5-6fb5-4fdc-a7ff-433a7ba175b3" />
 					<attribute id="Name" type="LSString" value="S_UND_Bulette" />
 					<attribute id="Stats" type="FixedString" value="MOD_SHADOW_ARMADILLO_BULETTE_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="0ea356fc-7a6f-4c60-8017-86349e2777ab" />
 					<attribute id="Title" type="TranslatedString" handle="h316a3986g5fdfg4b03g8735gd82446c50940" version="1" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="VFXScale" type="float" value="2.55" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
@@ -6450,8 +6131,8 @@
 					<attribute id="Archetype" type="FixedString" value="hookhorror" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769" />
-					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="CombatGroupID" type="FixedString" value="b6563699-a425-c8bd-eb71-0068063ec577" />
+					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="Faction" type="guid" value="5fa38920-684c-46c9-38b0-2960383575f3" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769-_(Icon_HookHorror)" />
@@ -6522,8 +6203,8 @@
 					<attribute id="Archetype" type="FixedString" value="hookhorror" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769" />
-					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="CombatGroupID" type="FixedString" value="b6563699-a425-c8bd-eb71-0068063ec577" />
+					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="Faction" type="guid" value="5fa38920-684c-46c9-38b0-2960383575f3" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769-_(Icon_HookHorror)" />
@@ -6594,8 +6275,8 @@
 					<attribute id="Archetype" type="FixedString" value="hookhorror" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769" />
-					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="CombatGroupID" type="FixedString" value="b6563699-a425-c8bd-eb71-0068063ec577" />
+					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="Faction" type="guid" value="5fa38920-684c-46c9-38b0-2960383575f3" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769-_(Icon_HookHorror)" />
@@ -6666,8 +6347,8 @@
 					<attribute id="Archetype" type="FixedString" value="hookhorror" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769" />
-					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="CombatGroupID" type="FixedString" value="b6563699-a425-c8bd-eb71-0068063ec577" />
+					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="Faction" type="guid" value="5fa38920-684c-46c9-38b0-2960383575f3" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769-_(Icon_HookHorror)" />
@@ -6738,8 +6419,8 @@
 					<attribute id="Archetype" type="FixedString" value="hookhorror" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769" />
-					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="CombatGroupID" type="FixedString" value="b6563699-a425-c8bd-eb71-0068063ec577" />
+					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="Faction" type="guid" value="5fa38920-684c-46c9-38b0-2960383575f3" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769-_(Icon_HookHorror)" />
@@ -6810,8 +6491,8 @@
 					<attribute id="Archetype" type="FixedString" value="hookhorror" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769" />
-					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="CombatGroupID" type="FixedString" value="b6563699-a425-c8bd-eb71-0068063ec577" />
+					<attribute id="ExplodedResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="Faction" type="guid" value="5fa38920-684c-46c9-38b0-2960383575f3" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="e36db099-1653-a5fc-a830-e68519855769-_(Icon_HookHorror)" />
@@ -6884,17 +6565,17 @@
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceAlcohol" />
 					<attribute id="BloodType" type="FixedString" value="Alcohol" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="DisplayName" type="TranslatedString" handle="c854f634-6e13-11ee-b962-0242ac120002" version="4" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Brewer_Mace" />
+					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="IsBoss" type="bool" value="True" />
-					<attribute id="Stats" type="FixedString" value="MOD_MASON_UNDEAD_MASTER_SCL" />
 					<attribute id="IsPlayer" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="ed80f434-6dec-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_GUILDMASTER_BREWER" />
 					<attribute id="SpellSet" type="FixedString" value="TWN_Brewer" />
+					<attribute id="Stats" type="FixedString" value="MOD_MASON_UNDEAD_MASTER_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="123fdf80-baf8-4d9c-8e23-16746fc81702" />
 					<attribute id="Title" type="TranslatedString" handle="h18d271a5g6140g4d16g9fd4g71ddd1761abf" version="2" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -7033,7 +6714,6 @@
 				/// ZOMBIES
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -7043,6 +6723,7 @@
 					<attribute id="MapKey" type="FixedString" value="337aac28-6dfc-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_MASON01" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -7153,7 +6834,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -7163,6 +6843,7 @@
 					<attribute id="MapKey" type="FixedString" value="6b74ebb6-6dfc-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_MASON02" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -7273,7 +6954,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -7283,6 +6963,7 @@
 					<attribute id="MapKey" type="FixedString" value="601a3540-6dfd-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_MASON03" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -7393,7 +7074,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -7403,6 +7083,7 @@
 					<attribute id="MapKey" type="FixedString" value="601a3540-6dfd-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_MASON04" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -7513,7 +7194,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -7523,6 +7203,7 @@
 					<attribute id="MapKey" type="FixedString" value="d6f9c5fe-6dfd-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_MASON05" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -7633,7 +7314,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -7643,6 +7323,7 @@
 					<attribute id="MapKey" type="FixedString" value="e8f05282-6dfd-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_MASON06" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -7753,7 +7434,6 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -7763,6 +7443,7 @@
 					<attribute id="MapKey" type="FixedString" value="e15a87f0-6e01-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_MASON07" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
@@ -7873,16 +7554,16 @@
 				</node>
 				/// MEAZELS
 				<node id="GameObjects">
+					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h84851c26ga272g4993gb18dgc3bb8501e5a3" version="2" />
 					<attribute id="Equipment" type="FixedString" value="" />
-					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="eb3c6667-4836-e94c-9559-33bf1f9eefaf-_(Icon_Meazel)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
-					<attribute id="Stats" type="FixedString" value="MOD_MEAZEL_MASON_SCL" />
 					<attribute id="MapKey" type="FixedString" value="d64181a2-6e01-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_MEAZEL_MASON01" />
+					<attribute id="Stats" type="FixedString" value="MOD_MEAZEL_MASON_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="4d8a46f3-5cb2-4fad-a74a-d0cef5edf04b" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -7915,16 +7596,16 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h84851c26ga272g4993gb18dgc3bb8501e5a3" version="2" />
 					<attribute id="Equipment" type="FixedString" value="" />
-					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="eb3c6667-4836-e94c-9559-33bf1f9eefaf-_(Icon_Meazel)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
-					<attribute id="Stats" type="FixedString" value="MOD_MEAZEL_MASON_SCL" />
 					<attribute id="MapKey" type="FixedString" value="5280bdaa-6e02-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_MEAZEL_MASON02" />
+					<attribute id="Stats" type="FixedString" value="MOD_MEAZEL_MASON_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="4d8a46f3-5cb2-4fad-a74a-d0cef5edf04b" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -7957,16 +7638,16 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h84851c26ga272g4993gb18dgc3bb8501e5a3" version="2" />
 					<attribute id="Equipment" type="FixedString" value="" />
-					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="eb3c6667-4836-e94c-9559-33bf1f9eefaf-_(Icon_Meazel)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
-					<attribute id="Stats" type="FixedString" value="MOD_MEAZEL_MASON_SCL" />
 					<attribute id="MapKey" type="FixedString" value="2552d862-6e03-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_MEAZEL_MASON03" />
+					<attribute id="Stats" type="FixedString" value="MOD_MEAZEL_MASON_SCL" />
 					<attribute id="TemplateName" type="FixedString" value="4d8a46f3-5cb2-4fad-a74a-d0cef5edf04b" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
@@ -8001,12 +7682,12 @@
 				/// WRAITH 
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="4e88c7aa-6e03-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="SCL_WRAITH_MASON01" />
-					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="StartCombatRange" type="float" value="9" />
 					<attribute id="TemplateName" type="FixedString" value="066133a8-5dce-4636-8ba1-13efb1140c54" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -8033,12 +7714,12 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="6d6b104c-6e03-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="SCL_WRAITH_MASON02" />
-					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="StartCombatRange" type="float" value="9" />
 					<attribute id="TemplateName" type="FixedString" value="066133a8-5dce-4636-8ba1-13efb1140c54" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -8065,12 +7746,12 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="85a79d24-6e03-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="SCL_WRAITH_MASON03" />
-					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="StartCombatRange" type="float" value="9" />
 					<attribute id="TemplateName" type="FixedString" value="066133a8-5dce-4636-8ba1-13efb1140c54" />
 					<attribute id="Type" type="FixedString" value="character" />
@@ -8097,12 +7778,12 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-17a1-a8db208e0de7" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="99bc1a10-6e03-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="SCL_WRAITH_MASON04" />
-					<attribute id="DisplayName" type="TranslatedString" handle="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="StartCombatRange" type="float" value="9" />
 					<attribute id="TemplateName" type="FixedString" value="066133a8-5dce-4636-8ba1-13efb1140c54" />
 					<attribute id="Type" type="FixedString" value="character" />

@@ -5,8 +5,8 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="Archetype" type="FixedString" value="dragon" />
 					<attribute id="ActivationGroupId" type="FixedString" value="PLA_GithChokepoint" />
+					<attribute id="Archetype" type="FixedString" value="dragon" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceNone" />
 					<attribute id="CanBeTeleported" type="bool" value="False" />
 					<attribute id="CanClimbLadders" type="bool" value="False" />
@@ -21,9 +21,9 @@
 					<attribute id="IsLootable" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="10" />
-					<attribute id="Stats" type="FixedString" value="MOD_LesserDrakeRed" />
 					<attribute id="MapKey" type="FixedString" value="8b59fae0-5ae0-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_GLO_GithDragon" />
+					<attribute id="Stats" type="FixedString" value="MOD_LesserDrakeRed" />
 					<attribute id="TemplateName" type="FixedString" value="64383f18-9830-40c2-8681-657cf36afc05" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />

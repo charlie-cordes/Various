@@ -1,47 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="040ae042-32ff-45c2-9dbf-e38023256062" version="1">Mind Flayer</content>
-	<content contentuid="caaff6aa-5404-11ee-8c99-0242ac120002" version="1">Father Owlbear</content>
-	<content contentuid="6470623a-5404-11ee-8c99-0242ac120002" version="1">Varion The Lesser Drake</content>
-	<content contentuid="26701418-54f8-11ee-8c99-0242ac120002" version="1">Underground Giant Spider</content>
-	<content contentuid="5db70c2c-55b3-11ee-8c99-0242ac120002" version="1">True Soul Ozgur The Raider</content>
-	<content contentuid="2192230a-55b6-11ee-8c99-0242ac120002" version="1">Kobold Minion</content>
-	<content contentuid="f6af99e4-569e-11ee-8c99-0242ac120002" version="1">Absolute's Influence</content>
-	<content contentuid="fca67fde-569e-11ee-8c99-0242ac120002" version="1">A crossbow touched by the absolute imbued with psychic power to gift a loyal follower, given or stolen by those with destructive potential</content>
-	<content contentuid="56fddcbe-5705-11ee-8c99-0242ac120002" version="1">Adult Phase Spider</content>
-	<content contentuid="ab474e9e-5738-11ee-8c99-0242ac120002" version="1">Bridge Patroller</content>
-	<content contentuid="e872735c-5738-11ee-8c99-0242ac120002" version="1">Worg</content>
-	<content contentuid="1bfaa4a8-575a-11ee-8c99-0242ac120002" version="1">Tower Gatekeeper</content>
-	<content contentuid="5c01477c-57ce-11ee-8c99-0242ac120002" version="1">True Soul General Moog</content>
-	<content contentuid="97b09e04-5804-11ee-8c99-0242ac120002" version="1">True Soul Admiral Flekker</content>
-	<content contentuid="d9405028-598d-11ee-8c99-0242ac120002" version="1">True Soul General Kloth</content>
-	<content contentuid="691a8842-5d6e-11ee-8c99-0242ac120002" version="1">Benji, a Good Boy</content>
-	<content contentuid="52ba9622-5d6f-11ee-8c99-0242ac120002" version="1">True Soul Ot'Anih</content>
-	<content contentuid="a01e4044-5d79-11ee-8c99-0242ac120002" version="1">Death Patron</content>
-	<content contentuid="b2ef6e9a-5d7f-11ee-8c99-0242ac120002" version="1">Githyanki Tenant</content>
-	<content contentuid="c4a3db46-6921-11ee-8c99-0242ac120002" version="1">Githyanki Captain</content>
-	<content contentuid="d6ccc7e6-692c-11ee-8c99-0242ac120002" version="1">True Soul Hunter Gethra</content>
-	<content contentuid="6f280ac8-692d-11ee-8c99-0242ac120002" version="1">Tamed Wolf</content>
-	<content contentuid="713f4480-6931-11ee-8c99-0242ac120002" version="1">Krakus</content>
-	<content contentuid="51efc560-693f-11ee-8c99-0242ac120002" version="1">Yin</content>
-	<content contentuid="581645c2-693f-11ee-8c99-0242ac120002" version="1">Yang</content>
-	<content contentuid="5b9a30ee-6941-11ee-8c99-0242ac120002" version="1">Lathendar Image</content>
-	<content contentuid="f3e3c83a-6962-11ee-8c99-0242ac120002" version="1">Shadow Curse</content>
-	<content contentuid="23ed8020-6963-11ee-8c99-0242ac120002" version="1">This entity has a powerful curse surrounding it</content>
-	<content contentuid="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1">Enslaved Soul</content>
-	<content contentuid="b75f211e-69e6-11ee-8c99-0242ac120002" version="1">Lesser Devil</content>
-	<content contentuid="9e52e2fa-69e6-11ee-8c99-0242ac120002" version="1">Shadow Harpy</content>
-	<content contentuid="45bf07e2-69ee-11ee-8c99-0242ac120002" version="1">Archaic Demon</content>
-	<content contentuid="b20a14d2-6a20-11ee-8c99-0242ac120002" version="1">True Soul Assassin Mika</content>
-	<content contentuid="35bc7e4a-6a36-11ee-8c99-0242ac120002" version="1">Director Zeno</content>
-	<content contentuid="6180ea9e-6a44-11ee-8c99-0242ac120002" version="1">Imprisoned Demon</content>
-	<content contentuid="e103771e-6a99-11ee-8c99-0242ac120002" version="1">Parasyte</content>
-	<content contentuid="4d430392-6a9d-11ee-8c99-0242ac120002" version="1">Deathwalker Brook</content>
-	<content contentuid="79d9a9dc-6ab7-11ee-b962-0242ac120002" version="1">Corrosive Mixture</content>
 	<content contentuid="834ff8b8-6ad5-11ee-b962-0242ac120002" version="1">A container with corrosive mixture is accopled, making every bolt shot soaked in acid </content>
-	<content contentuid="bfb4b144-6adb-11ee-b962-0242ac120002" version="1">True Soul Twin Knuckles</content>
-	<content contentuid="c7f95788-6adb-11ee-b962-0242ac120002" version="1">True Soul Twin Bartoldt</content>
+	<content contentuid="fca67fde-569e-11ee-8c99-0242ac120002" version="1">A crossbow touched by the absolute imbued with psychic power to gift a loyal follower, given or stolen by those with destructive potential</content>
+	<content contentuid="f6af99e4-569e-11ee-8c99-0242ac120002" version="1">Absolute's Influence</content>
+	<content contentuid="56fddcbe-5705-11ee-8c99-0242ac120002" version="1">Adult Phase Spider</content>
+	<content contentuid="45bf07e2-69ee-11ee-8c99-0242ac120002" version="1">Archaic Demon</content>
+	<content contentuid="691a8842-5d6e-11ee-8c99-0242ac120002" version="1">Benji, a Good Boy</content>
+	<content contentuid="ab474e9e-5738-11ee-8c99-0242ac120002" version="1">Bridge Patroller</content>
+	<content contentuid="79d9a9dc-6ab7-11ee-b962-0242ac120002" version="1">Corrosive Mixture</content>
+	<content contentuid="4d430392-6a9d-11ee-8c99-0242ac120002" version="1">Deathwalker Brook</content>
+	<content contentuid="35bc7e4a-6a36-11ee-8c99-0242ac120002" version="1">Director Zeno</content>
+	<content contentuid="bc9ae096-69e6-11ee-8c99-0242ac120002" version="1">Enslaved Soul</content>
+	<content contentuid="caaff6aa-5404-11ee-8c99-0242ac120002" version="1">Father Owlbear</content>
+	<content contentuid="c4a3db46-6921-11ee-8c99-0242ac120002" version="1">Githyanki Captain</content>
+	<content contentuid="b2ef6e9a-5d7f-11ee-8c99-0242ac120002" version="1">Githyanki Tenant</content>
+	<content contentuid="6180ea9e-6a44-11ee-8c99-0242ac120002" version="1">Imprisoned Demon</content>
+	<content contentuid="2192230a-55b6-11ee-8c99-0242ac120002" version="1">Kobold Minion</content>
+	<content contentuid="713f4480-6931-11ee-8c99-0242ac120002" version="1">Krakus</content>
+	<content contentuid="5b9a30ee-6941-11ee-8c99-0242ac120002" version="1">Lathendar Image</content>
+	<content contentuid="b75f211e-69e6-11ee-8c99-0242ac120002" version="1">Lesser Devil</content>
+	<content contentuid="040ae042-32ff-45c2-9dbf-e38023256062" version="1">Mind Flayer</content>
+	<content contentuid="e103771e-6a99-11ee-8c99-0242ac120002" version="1">Parasyte</content>
 	<content contentuid="fba59c06-6b01-11ee-b962-0242ac120002" version="1">Shadow Armadillo</content>
-	<content contentuid="e33054c0-6dec-11ee-b962-0242ac120002" version="1">Undead Guildmaster</content>
+	<content contentuid="f3e3c83a-6962-11ee-8c99-0242ac120002" version="1">Shadow Curse</content>
+	<content contentuid="9e52e2fa-69e6-11ee-8c99-0242ac120002" version="1">Shadow Harpy</content>
+	<content contentuid="6f280ac8-692d-11ee-8c99-0242ac120002" version="1">Tamed Wolf</content>
+	<content contentuid="23ed8020-6963-11ee-8c99-0242ac120002" version="1">This entity has a powerful curse surrounding it</content>
 	<content contentuid="c854f634-6e13-11ee-b962-0242ac120002" version="1">Tombkeeper Goliath</content>
+	<content contentuid="1bfaa4a8-575a-11ee-8c99-0242ac120002" version="1">Tower Gatekeeper</content>
+	<content contentuid="97b09e04-5804-11ee-8c99-0242ac120002" version="1">True Soul Admiral Flekker</content>
+	<content contentuid="b20a14d2-6a20-11ee-8c99-0242ac120002" version="1">True Soul Assassin Mika</content>
+	<content contentuid="d9405028-598d-11ee-8c99-0242ac120002" version="1">True Soul General Kloth</content>
+	<content contentuid="5c01477c-57ce-11ee-8c99-0242ac120002" version="1">True Soul General Moog</content>
+	<content contentuid="d6ccc7e6-692c-11ee-8c99-0242ac120002" version="1">True Soul Hunter Gethra</content>
+	<content contentuid="52ba9622-5d6f-11ee-8c99-0242ac120002" version="1">True Soul Ot'Anih</content>
+	<content contentuid="5db70c2c-55b3-11ee-8c99-0242ac120002" version="1">True Soul Ozgur The Raider</content>
+	<content contentuid="c7f95788-6adb-11ee-b962-0242ac120002" version="1">True Soul Twin Bartoldt</content>
+	<content contentuid="bfb4b144-6adb-11ee-b962-0242ac120002" version="1">True Soul Twin Knuckles</content>
+	<content contentuid="e33054c0-6dec-11ee-b962-0242ac120002" version="1">Undead Guildmaster</content>
+	<content contentuid="26701418-54f8-11ee-8c99-0242ac120002" version="1">Underground Giant Spider</content>
+	<content contentuid="6470623a-5404-11ee-8c99-0242ac120002" version="1">Varion The Lesser Drake</content>
+	<content contentuid="e872735c-5738-11ee-8c99-0242ac120002" version="1">Worg</content>
+	<content contentuid="581645c2-693f-11ee-8c99-0242ac120002" version="1">Yang</content>
+	<content contentuid="51efc560-693f-11ee-8c99-0242ac120002" version="1">Yin</content>
 </contentList>

@@ -6,8 +6,8 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="CombatGroupID" type="FixedString" value="d874601f-7d85-4bdd-8e70-3b89d6a5d05b" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="Faction" type="guid" value="60749034-59cb-4551-b5ea-07d1edd617a9" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d-_(Icon_Zombie)" />
@@ -128,8 +128,8 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="CombatGroupID" type="FixedString" value="d874601f-7d85-4bdd-8e70-3b89d6a5d05b" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="Faction" type="guid" value="60749034-59cb-4551-b5ea-07d1edd617a9" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d-_(Icon_Zombie)" />
@@ -250,8 +250,8 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="CombatGroupID" type="FixedString" value="d874601f-7d85-4bdd-8e70-3b89d6a5d05b" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd366b12dgca1ag4cbcg9fc2g31329b923f08" version="2" />
 					<attribute id="Faction" type="guid" value="60749034-59cb-4551-b5ea-07d1edd617a9" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="6340316d-aa25-96e7-3eb9-ea1021285e6d-_(Icon_Zombie)" />
@@ -378,8 +378,8 @@
 					<attribute id="LevelName" type="FixedString" value="CRE_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="946c8a6e-5d72-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_MOD_GhoulRuins" />
-					<attribute id="SwarmGroup" type="FixedString" value="MOO_Checkpoint_GhoulSwarm" />
 					<attribute id="Stats" type="FixedString" value="MOD_GhoulRuins" />
+					<attribute id="SwarmGroup" type="FixedString" value="MOO_Checkpoint_GhoulSwarm" />
 					<attribute id="TemplateName" type="FixedString" value="902b3dad-d2f0-4283-a4b4-932d9db846d2" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
@@ -2781,8 +2781,8 @@
 					<attribute id="LevelName" type="FixedString" value="CRE_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="112ed320-6923-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="CRE_WOLF_01" />
-					<attribute id="Stats" type="FixedString" value="MOD_Wolf" />
 					<attribute id="SpotSneakers" type="bool" value="True" />
+					<attribute id="Stats" type="FixedString" value="MOD_Wolf" />
 					<attribute id="TemplateName" type="FixedString" value="41da0eff-b533-43cc-a014-218f7d23fa11" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
@@ -2868,10 +2868,10 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="CombatGroupID" type="FixedString" value="1891c26c-6923-11ee-8c99-0242ac120002" />
 					<attribute id="CanClimbLadders" type="bool" value="False" />
 					<attribute id="CanOpenDoors" type="bool" value="False" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b5d28ddc-40b5-d74f-d83e-2e832feb5c97" />
+					<attribute id="CombatGroupID" type="FixedString" value="1891c26c-6923-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="6f280ac8-692d-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Unarmed" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
@@ -2952,10 +2952,10 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="CombatGroupID" type="FixedString" value="1891c26c-6923-11ee-8c99-0242ac120002" />
 					<attribute id="CanClimbLadders" type="bool" value="False" />
 					<attribute id="CanOpenDoors" type="bool" value="False" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b5d28ddc-40b5-d74f-d83e-2e832feb5c97" />
+					<attribute id="CombatGroupID" type="FixedString" value="1891c26c-6923-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="6f280ac8-692d-11ee-8c99-0242ac120002" version="1" />
 					<attribute id="Equipment" type="FixedString" value="EQP_Unarmed" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
@@ -3304,8 +3304,8 @@
 				<node id="GameObjects">
 					<attribute id="CanFight" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5b76162a-67fc-8441-a0dd-b27e4fdf64cd" />
-					<attribute id="DisplayName" type="TranslatedString" handle="713f4480-6931-11ee-8c99-0242ac120002" version="2" />
 					<attribute id="CombatGroupID" type="FixedString" value="1891c26c-6923-11ee-8c99-0242ac120002" />
+					<attribute id="DisplayName" type="TranslatedString" handle="713f4480-6931-11ee-8c99-0242ac120002" version="2" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="5b76162a-67fc-8441-a0dd-b27e4fdf64cd-_(Icon_Diloph)" />
@@ -3356,16 +3356,16 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="CRE_RooftopEagles" />
-					<attribute id="CombatGroupID" type="FixedString" value="212a36ee-1d4e-44cd-8eac-e0ccccd97074" />
-					<attribute id="Faction" type="guid" value="5429a886-daaa-4746-8cf6-1f5db16ed92d" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="9561b163-d9d9-0c23-f7db-f91d86ab3bb1" />
+					<attribute id="CombatGroupID" type="FixedString" value="212a36ee-1d4e-44cd-8eac-e0ccccd97074" />
 					<attribute id="CombatName" type="LSString" value="S_DEN_Harpy_Melee_01" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h5c973bd2g3172g4585g84ddga02e5cf7befb" version="1" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="5429a886-daaa-4746-8cf6-1f5db16ed92d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="9561b163-d9d9-0c23-f7db-f91d86ab3bb1-_(Icon_Harpy)" />
 					<attribute id="IsLootable" type="bool" value="True" />
@@ -3589,17 +3589,17 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="CRE_RooftopEagles" />
-					<attribute id="CombatGroupID" type="FixedString" value="212a36ee-1d4e-44cd-8eac-e0ccccd97074" />
-					<attribute id="Faction" type="guid" value="5429a886-daaa-4746-8cf6-1f5db16ed92d" />
 					<attribute id="Archetype" type="FixedString" value="harpy_melee" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5f3b5801-1e8d-9619-11f9-ed30a816fa58" />
+					<attribute id="CombatGroupID" type="FixedString" value="212a36ee-1d4e-44cd-8eac-e0ccccd97074" />
 					<attribute id="CombatName" type="LSString" value="S_DEN_Harpy_Melee_02" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h98662c80ga3f5g4291gad96g7830112e4983" version="1" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="5429a886-daaa-4746-8cf6-1f5db16ed92d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="5f3b5801-1e8d-9619-11f9-ed30a816fa58-_(Icon_Harpy)" />
 					<attribute id="IsLootable" type="bool" value="True" />
@@ -3847,17 +3847,17 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="CRE_RooftopEagles" />
-					<attribute id="CombatGroupID" type="FixedString" value="212a36ee-1d4e-44cd-8eac-e0ccccd97074" />
-					<attribute id="Faction" type="guid" value="5429a886-daaa-4746-8cf6-1f5db16ed92d" />
 					<attribute id="Archetype" type="FixedString" value="harpy_melee" />
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="5f3b5801-1e8d-9619-11f9-ed30a816fa58" />
+					<attribute id="CombatGroupID" type="FixedString" value="212a36ee-1d4e-44cd-8eac-e0ccccd97074" />
 					<attribute id="CombatName" type="LSString" value="S_DEN_Harpy_Melee_02" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h98662c80ga3f5g4291gad96g7830112e4983" version="1" />
 					<attribute id="ExplodedResourceID" type="FixedString" value="" />
+					<attribute id="Faction" type="guid" value="5429a886-daaa-4746-8cf6-1f5db16ed92d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="5f3b5801-1e8d-9619-11f9-ed30a816fa58-_(Icon_Harpy)" />
 					<attribute id="IsLootable" type="bool" value="True" />
@@ -4105,12 +4105,12 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="ActivationGroupId" type="FixedString" value="CRE_RooftopEagles" />
-					<attribute id="CombatGroupID" type="FixedString" value="212a36ee-1d4e-44cd-8eac-e0ccccd97074" />
-					<attribute id="Faction" type="guid" value="5429a886-daaa-4746-8cf6-1f5db16ed92d" />
 					<attribute id="Archetype" type="FixedString" value="ranged" />
 					<attribute id="CanOpenDoors" type="bool" value="True" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="013ba984-4f45-6cf1-b12d-bdb211544842" />
+					<attribute id="CombatGroupID" type="FixedString" value="212a36ee-1d4e-44cd-8eac-e0ccccd97074" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h24a736a9g9382g46adga40ag8b1b6b5b5aa3" version="4" />
+					<attribute id="Faction" type="guid" value="5429a886-daaa-4746-8cf6-1f5db16ed92d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="Icon" type="FixedString" value="013ba984-4f45-6cf1-b12d-bdb211544842-_(Icon_Bird_Eagle)" />
 					<attribute id="LevelName" type="FixedString" value="CRE_Main_A" />
@@ -4321,15 +4321,15 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="CombatGroupID" type="FixedString" value="b3e21f17-49fc-8376-bcdf-d25719862f20" />
-					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Archetype" type="FixedString" value="melee_smart" />
+					<attribute id="CombatGroupID" type="FixedString" value="b3e21f17-49fc-8376-bcdf-d25719862f20" />
+					<attribute id="DisplayName" type="TranslatedString" handle="51efc560-693f-11ee-8c99-0242ac120002" version="1" />
+					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="LevelName" type="FixedString" value="CRE_Main_A" />
+					<attribute id="LevelOverride" type="int32" value="9" />
 					<attribute id="MapKey" type="FixedString" value="40d7bb52-693f-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="CRE_YIN_MINOTAUR" />
-					<attribute id="DisplayName" type="TranslatedString" handle="51efc560-693f-11ee-8c99-0242ac120002" version="1" />
-					<attribute id="LevelOverride" type="int32" value="9" />
 					<attribute id="Stats" type="FixedString" value="MOD_YIN_MINOTAUR" />
 					<attribute id="TemplateName" type="FixedString" value="823828dd-a022-464b-b9b5-f40a23695f58" />
 					<attribute id="Type" type="FixedString" value="character" />

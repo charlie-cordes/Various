@@ -5,25 +5,25 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="golem_adamantine" />
+					<attribute id="IsEquipmentLootable" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="10" />
 					<attribute id="MapKey" type="FixedString" value="adcae7d4-575b-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="UND_AdamantineGolem" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4d5fbc43-408c-4ec8-acf6-9c8d8aa456d6" />
-					<attribute id="Stats" type="FixedString" value="UND_AdamantineGolem" />
-					<attribute id="SpellSet" type="FixedString" value="" />
-					<attribute id="LevelOverride" type="int32" value="10" />
+					<attribute id="Race" type="guid" value="84ddccc7-653e-4236-c484-2fcaac5a9a71" />
 					<attribute id="SoundInitEvent" type="FixedString" value="084a5647-4331-9c43-9bfe-3bb1d36258f1" />
 					<attribute id="SoundObjectIndex" type="uint8" value="0" />
+					<attribute id="SpellSet" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="UND_AdamantineGolem" />
+					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="VocalAnticipationResourceID" type="FixedString" value="c42a6e98-cb63-e95a-836d-a92f21c491b0" />
 					<attribute id="VocalAttackResourceID" type="FixedString" value="3fc2ab90-3041-cd4c-cff0-e5e8e9bb2443" />
 					<attribute id="VocalDodgeResourceID" type="FixedString" value="" />
 					<attribute id="VocalEffortsResourceID" type="FixedString" value="e1187b65-7e87-5c0a-446e-48868b4f994a" />
 					<attribute id="VocalPainResourceID" type="FixedString" value="76ad81b0-91a8-7a42-5edc-0e09b3e08bc9" />
 					<attribute id="VocalWeakResourceID" type="FixedString" value="ac1147aa-9bf9-8fe9-752e-ec7088a4aab2" />
-					<attribute id="IsEquipmentLootable" type="bool" value="True" />
-					<attribute id="Race" type="guid" value="84ddccc7-653e-4236-c484-2fcaac5a9a71" />
-					<attribute id="Archetype" type="FixedString" value="golem_adamantine" />
 					<children>
 						<node id="Bounds">
 							<children>
