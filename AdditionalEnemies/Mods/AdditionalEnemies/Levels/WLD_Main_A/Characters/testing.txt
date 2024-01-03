@@ -1018,10 +1018,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="9db19866-5756-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_KethericCity_LostMerregon" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274414" />
 					<attribute id="SpellSet" type="FixedString" value="CommonBeastActions" />
 					<attribute id="TemplateName" type="FixedString" value="9bbee0e3-4141-4561-9543-15d3a21000f4" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274414" />
 					<children>
 						<node id="ItemList">
 							<children>
