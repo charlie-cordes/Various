@@ -147,7 +147,7 @@
 						</node>
 					</children>
 				</node>
-				/// COMMENT TEMPLE PASSAGE SHAR WORSHIPPERS 
+				/// COMMENT TEMPLE PASSAGE SHAR WORSHIPPERS
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="LOW_SwayedJusticiar" />
 					<attribute id="Archetype" type="FixedString" value="melee_smart" />
@@ -806,7 +806,7 @@
 							<attribute id="Scale" type="float" value="1" />
 						</node>
 						</children>
-				</node>	
+				</node>
 				/// COMMENT FATHER OWLBEAR
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="FOR_OwlBear" />
@@ -845,7 +845,7 @@
 					<attribute id="VocalRelaxedResourceID" type="FixedString" value="050017ec-7c79-0c65-c9a3-460fe649dc6a" />
 					<attribute id="VocalShoutResourceID" type="FixedString" value="7fa88ae1-2184-dbd2-77ac-bc71c97f2c35" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209029" />
-					<children>						
+					<children>
 						<node id="LayerList">
 							<children>
 								<node id="Layers">
@@ -1023,9 +1023,9 @@
 						</node>
 						</children>
 						</node>
-					</children>	
+					</children>
 				</node>
-				/// COMMENT BEHOLDER UNDERDARK 
+				/// COMMENT BEHOLDER UNDERDARK
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="beholder" />
 					<attribute id="CanFight" type="bool" value="True" />
@@ -1240,7 +1240,7 @@
 						</node>
 					</children>
 				</node>
-				/// COMMENT SPIDERS UNDERDARK ENTRANCE 
+				/// COMMENT SPIDERS UNDERDARK ENTRANCE
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="melee" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
@@ -1742,14 +1742,14 @@
 								</node>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="GEN_TadpoleReward" />
-								</node>	
+								</node>
 							</children>
 						</node>
 						<node id="Transform">
 							<attribute id="Position" type="fvec3" value="16.93579 10.79874 480.5247" />
 							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
 							<attribute id="Scale" type="float" value="1.1" />
-						</node>						
+						</node>
 					</children>
 				</node>
 				<node id="GameObjects">
@@ -1864,7 +1864,7 @@
 						</node>
 					</children>
 				</node>
-				/// COMMENT CATACOMB GHOUL 
+				/// COMMENT CATACOMB GHOUL
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="MOO_EntranceGhoul_003" />
 					<attribute id="Faction" type="guid" value="5b02a4d5-fdca-428d-9da1-c7db0b3e77d7" />
@@ -1913,7 +1913,7 @@
 								</node>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="Valuables_Gems" />
-								</node>								
+								</node>
 							</children>
 						</node>
 					</children>
@@ -2232,8 +2232,8 @@
 								</node>
 							</children>
 						</node>
-					</children>	
-				</node>	
+					</children>
+				</node>
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="2dbf407e-59b0-11ee-8c99-0242ac120002" />
 					<attribute id="DisplayName" type="TranslatedString" handle="040ae042-32ff-45c2-9dbf-e38023256062" version="1" />
@@ -2312,7 +2312,7 @@
 								</node>
 							</children>
 						</node>
-					</children>	
+					</children>
 				</node>
 				/// COMMENT BOSS CLOAKER
 				<node id="GameObjects">
@@ -3016,7 +3016,7 @@
 						</node>
 					</children>
 				</node>
-				/// COMMENT KUO TOA IN UPPER BEACH 
+				/// COMMENT KUO TOA IN UPPER BEACH
 				<node id="GameObjects">
 					<attribute id="AiHint" type="guid" value="45a231e4-e94f-4b0e-41a9-af2ddf1ab544" />
 					<attribute id="AnubisConfigName" type="FixedString" value="UND_KuoToaGod_Worshipper" />
@@ -3606,7 +3606,7 @@
 											<children>
 												<node id="Tags" />
 											</children>
-										</node>										
+										</node>
 									</children>
 								</node>
 								<node id="Skill">
@@ -3720,7 +3720,7 @@
 											<children>
 												<node id="Tags" />
 											</children>
-										</node>										
+										</node>
 									</children>
 								</node>
 							</children>
@@ -3748,7 +3748,7 @@
 						</node>
 					</children>
 				</node>
-				/// CROSSBOW KOBOLDS 
+				/// CROSSBOW KOBOLDS
 				<node id="GameObjects">
 					<attribute id="AnimationSetResourceID" type="FixedString" value="c4f04d10-aa3d-e0a5-148b-f64c3c391bf4" />
 					<attribute id="AnubisConfigName" type="FixedString" value="CRE_Brewery_SpeakingKobold" />
@@ -3818,7 +3818,7 @@
 											<children>
 												<node id="Tags" />
 											</children>
-										</node>										
+										</node>
 									</children>
 								</node>
 								<node id="Skill">
@@ -3845,7 +3845,7 @@
 											<children>
 												<node id="Tags" />
 											</children>
-										</node>										
+										</node>
 									</children>
 								</node>
 							</children>
@@ -3933,7 +3933,7 @@
 											<children>
 												<node id="Tags" />
 											</children>
-										</node>										
+										</node>
 									</children>
 								</node>
 								<node id="Skill">
@@ -3960,7 +3960,7 @@
 											<children>
 												<node id="Tags" />
 											</children>
-										</node>										
+										</node>
 									</children>
 								</node>
 							</children>
@@ -3979,7 +3979,7 @@
 						</node>
 					</children>
 				</node>
-				/// COMMON KOBOLDS 
+				/// COMMON KOBOLDS
 				<node id="GameObjects">
 					<attribute id="AnimationSetResourceID" type="FixedString" value="c4f04d10-aa3d-e0a5-148b-f64c3c391bf4" />
 					<attribute id="AnubisConfigName" type="FixedString" value="CRE_Brewery_SpeakingKobold" />
@@ -4327,8 +4327,8 @@
 							</children>
 						</node>
 					</children>
-				</node>	
-                 /// COMMENT UNDERDARK PHASE-SPIDER QUEEN + ETTERCAPS   
+				</node>
+                 /// COMMENT UNDERDARK PHASE-SPIDER QUEEN + ETTERCAPS
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="FOR_Bottomless_Ettercap" />
 					<attribute id="CombatGroupID" type="FixedString" value="a0f5610a-59af-11ee-8c99-0242ac120002" />
@@ -4518,7 +4518,7 @@
 									<attribute id="Object" type="FixedString" value="Monster_Spider" />
 								</node>
 							</children>
-						</node>	
+						</node>
 					</children>
 				</node>
                 <node id="GameObjects">
@@ -4710,7 +4710,7 @@
 									<attribute id="Object" type="FixedString" value="Monster_Spider" />
 								</node>
 							</children>
-						</node>	
+						</node>
 					</children>
 				</node>
                 <node id="GameObjects">
@@ -4902,9 +4902,9 @@
 									<attribute id="Object" type="FixedString" value="Monster_Spider" />
 								</node>
 							</children>
-						</node>						
+						</node>
 					</children>
-				</node>	
+				</node>
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="FOR_Bottomless_PatrolSpider" />
 					<attribute id="Archetype" type="FixedString" value="spider_phase" />
@@ -5097,7 +5097,7 @@
 						</node>
 					</children>
 				</node>
-                /// COMMENT GOBLIN PATROL NEAR BURNING MANOR 
+                /// COMMENT GOBLIN PATROL NEAR BURNING MANOR
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="melee_ignoresurfacedamage" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="ca798d09-607c-fca4-f035-baf734afe78c" />
@@ -5478,7 +5478,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects">					
+				<node id="GameObjects">
 					<attribute id="BloodSurfaceType" type="FixedString" value="SurfaceBlood" />
 					<attribute id="CanBeTeleported" type="bool" value="True" />
 					<attribute id="CombatGroupID" type="FixedString" value="16172b1c-69dc-11ee-8c99-0242ac120002" />
@@ -6107,7 +6107,7 @@
 						</node>
 					</children>
 				</node>
-				/// COMMENT BRIDGE MINOTAUR 
+				/// COMMENT BRIDGE MINOTAUR
 				<node id="GameObjects">
 					<attribute id="CanClimbLadders" type="bool" value="False" />
 					<attribute id="DisplayName" type="TranslatedString" handle="ab474e9e-5738-11ee-8c99-0242ac120002" version="1" />
@@ -6168,7 +6168,7 @@
 							</children>
 						</node>
 					</children>
-				</node>				
+				</node>
 				/// COMMENT GYRMFORGE MERREGONS
 				<node id="GameObjects">
 					<attribute id="Archetype" type="FixedString" value="melee" />
@@ -6342,7 +6342,7 @@
 						<node id="Treasures" />
 					</children>
 				</node>
-				/// COMMENT TOWER GUARDIAN + SOLDIERS 
+				/// COMMENT TOWER GUARDIAN + SOLDIERS
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="UND_KethericCity_Elemental_1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="1bfaa4a8-575a-11ee-8c99-0242ac120002" version="1" />
@@ -6642,7 +6642,7 @@
 								</node>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="Valuables_Gems" />
-								</node>								
+								</node>
 							</children>
 						</node>
 					</children>
@@ -7894,7 +7894,7 @@
 								</node>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="GEN_TadpoleReward" />
-								</node>								
+								</node>
 							</children>
 						</node>
 						<node id="Transform">
@@ -8295,11 +8295,11 @@
 									<attribute id="Object" type="FixedString" value="UND_KC_Supplies" />
 								</node>
 								<node id="TreasureItem">
-									<attribute id="Object" type="FixedString" value="UND_KC_Thrinn" />								
+									<attribute id="Object" type="FixedString" value="UND_KC_Thrinn" />
 								</node>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="GEN_TadpoleReward" />
-								</node>	
+								</node>
 							</children>
 						</node>
 					</children>
@@ -8608,7 +8608,7 @@
 								</node>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="UND_Duergar_Generic" />
-								</node>								
+								</node>
 							</children>
 						</node>
 						<node id="Transform">
@@ -8632,11 +8632,11 @@
 								</node>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="GEN_TadpoleReward" />
-								</node>	
+								</node>
 							</children>
 						</node>
 					</children>
-				</node>				
+				</node>
 			</children>
 			</node>
 	</region>

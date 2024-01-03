@@ -5971,10 +5971,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="d431467a-5738-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_MOD_KethericCity_LavaElemental" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="TemplateName" type="FixedString" value="cad0b684-52e1-48d2-9ebd-4ff0ebe301d3" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -6033,10 +6033,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="cd21ff78-5738-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_KethericCity_LavaElemental" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="TemplateName" type="FixedString" value="cad0b684-52e1-48d2-9ebd-4ff0ebe301d3" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
 							<children>

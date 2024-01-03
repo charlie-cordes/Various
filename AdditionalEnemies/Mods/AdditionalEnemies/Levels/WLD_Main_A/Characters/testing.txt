@@ -5,10 +5,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="30cd7a08-5756-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_MephitAmbush_Mephit_007" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<attribute id="SwarmGroup" type="FixedString" value="" />
 					<attribute id="TemplateName" type="FixedString" value="334e9419-5027-4e67-88f8-c41c8adffa98" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -190,10 +190,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="27b3b9d2-5756-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_MephitAmbush_Mephit_007" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<attribute id="SwarmGroup" type="FixedString" value="" />
 					<attribute id="TemplateName" type="FixedString" value="334e9419-5027-4e67-88f8-c41c8adffa98" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -375,10 +375,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="1eb6f074-5756-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_MephitAmbush_Mephit_007" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<attribute id="SwarmGroup" type="FixedString" value="" />
 					<attribute id="TemplateName" type="FixedString" value="334e9419-5027-4e67-88f8-c41c8adffa98" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -560,10 +560,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="166dc654-5756-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_MephitAmbush_Mephit_007" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<attribute id="SwarmGroup" type="FixedString" value="" />
 					<attribute id="TemplateName" type="FixedString" value="334e9419-5027-4e67-88f8-c41c8adffa98" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -745,10 +745,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="0d988c76-5756-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_MephitAmbush_Mephit_007" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<attribute id="SwarmGroup" type="FixedString" value="" />
 					<attribute id="TemplateName" type="FixedString" value="334e9419-5027-4e67-88f8-c41c8adffa98" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -932,10 +932,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="a5c34edc-5756-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_KethericCity_LostMerregon" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274414" />
 					<attribute id="SpellSet" type="FixedString" value="CommonBeastActions" />
 					<attribute id="TemplateName" type="FixedString" value="9bbee0e3-4141-4561-9543-15d3a21000f4" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274414" />
 					<children>
 						<node id="ItemList">
 							<children>
@@ -1018,10 +1018,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="9db19866-5756-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_KethericCity_LostMerregon" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274414" />
 					<attribute id="SpellSet" type="FixedString" value="CommonBeastActions" />
 					<attribute id="TemplateName" type="FixedString" value="9bbee0e3-4141-4561-9543-15d3a21000f4" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115198813274414" />
 					<children>
 						<node id="ItemList">
 							<children>
@@ -1106,13 +1106,13 @@
 					<attribute id="LevelOverride" type="int32" value="7" />
 					<attribute id="MapKey" type="FixedString" value="53ed6a92-5757-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_MOD_KethericCity_AdamantineGolem" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="SpellSet" type="FixedString" value="" />
 					<attribute id="Stats" type="FixedString" value="MOD_GuardGolem" />
 					<attribute id="TemplateName" type="FixedString" value="adcae7d4-575b-11ee-8c99-0242ac120002" />
 					<attribute id="Title" type="TranslatedString" handle="h15baaecagc93eg4a69g8abfg5f73f1c8133f" version="1" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -1394,7 +1394,7 @@
 								</node>
 								<node id="TreasureItem">
 									<attribute id="Object" type="FixedString" value="Valuables_Gems" />
-								</node>								
+								</node>
 							</children>
 						</node>
 					</children>
@@ -1410,10 +1410,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="03f0b596-575a-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_KethericCity_AnimatedArmor_003" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="SwarmGroup" type="FixedString" value="UND_KethericCity_AnimatedArmor_Swarm_1" />
 					<attribute id="TemplateName" type="FixedString" value="2facfc7e-5fe9-4a8d-9fec-dcb5ce6c5ebf" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -1538,10 +1538,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="fa39a094-5759-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_KethericCity_AnimatedArmor_001" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="SwarmGroup" type="FixedString" value="UND_KethericCity_AnimatedArmor_Swarm_2" />
 					<attribute id="TemplateName" type="FixedString" value="2facfc7e-5fe9-4a8d-9fec-dcb5ce6c5ebf" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -1666,10 +1666,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="f26eb94e-5759-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_UND_KethericCity_AnimatedArmor_001" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="SwarmGroup" type="FixedString" value="UND_KethericCity_AnimatedArmor_Swarm_2" />
 					<attribute id="TemplateName" type="FixedString" value="2facfc7e-5fe9-4a8d-9fec-dcb5ce6c5ebf" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="LayerList">
 							<children>
@@ -1801,10 +1801,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="696bdbe2-57a2-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_PLA_ConflictedFlind_Gnoll_FleshGnawer_01" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="4350b66a-f56a-4f2a-9c60-b5a56609afa4" />
 					<attribute id="TemplateName" type="FixedString" value="129faf79-e752-4886-95d1-9f1746fe200d" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="FootStepInfos">
 							<children>
@@ -1940,11 +1940,11 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="4bcb0c66-57a2-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_PLA_ConflictedFlind_Gnoll_Ranger_03" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="4350b66a-f56a-4f2a-9c60-b5a56609afa4" />
 					<attribute id="Stats" type="FixedString" value="Gnoll_Hunter" />
 					<attribute id="TemplateName" type="FixedString" value="5c239de6-e94e-4319-bed7-c8e338b1483d" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="FootStepInfos">
 							<children>
@@ -2080,11 +2080,11 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="1c458b4c-57a2-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_PLA_ConflictedFlind_Gnoll_Ranger_03" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<attribute id="SoftBodyCollisionTemplate" type="FixedString" value="4350b66a-f56a-4f2a-9c60-b5a56609afa4" />
 					<attribute id="Stats" type="FixedString" value="Gnoll_Hunter" />
 					<attribute id="TemplateName" type="FixedString" value="5c239de6-e94e-4319-bed7-c8e338b1483d" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="FootStepInfos">
 							<children>
@@ -2214,10 +2214,10 @@
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="86c47ce8-57a3-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="S_FOR_SchoolOgre3" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209007" />
 					<attribute id="Stats" type="FixedString" value="MOD_Ogre_TrueSoul" />
 					<attribute id="TemplateName" type="FixedString" value="cfef7d2e-39f1-41c3-8b76-05d47b73fc16" />
 					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209007" />
 					<children>
 						<node id="ItemList" />
 						<node id="LayerList">

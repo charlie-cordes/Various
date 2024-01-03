@@ -245,7 +245,7 @@
 							<attribute id="Scale" type="float" value="0.7" />
 						</node>
 					</children>
-				</node>								
+				</node>
 			</children>
 			</node>
 	</region>

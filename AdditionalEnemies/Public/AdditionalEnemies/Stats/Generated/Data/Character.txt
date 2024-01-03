@@ -77,7 +77,7 @@ data "Proficiency Group" "HeavyArmor;LightArmor;MartialWeapons;MediumArmor;Simpl
 
 new entry "MOD_Kobold_Melee"
 type "Character"
-using "Kobold_Melee" 
+using "Kobold_Melee"
 data "Strength" "11"
 data "Vitality" "28"
 
@@ -93,7 +93,7 @@ type "Character"
 using "Spider_Phase"
 data "Vitality" "95"
 data "Strength" "17"
-data "Armor" "14" 
+data "Armor" "14"
 
 new entry "MOD_GuardGolem"
 type "Character"
@@ -453,4 +453,3 @@ data "Dexterity" "19"
 data "Constitution" "15"
 data "Armor" "12"
 data "Vitality" "100"
-

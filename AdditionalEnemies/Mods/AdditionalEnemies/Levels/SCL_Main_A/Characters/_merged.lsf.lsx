@@ -2969,7 +2969,7 @@
 						</node>
 					</children>
 				</node>
-				
+
 				<node id="GameObjects">
 					<attribute id="CombatGroupID" type="FixedString" value="1c081cf1-b3dd-4880-88c0-e91ac765b46e" />
 					<attribute id="DisplayName" type="TranslatedString" handle="6180ea9e-6a44-11ee-8c99-0242ac120002" version="2" />
@@ -3379,11 +3379,12 @@
 					<attribute id="Icon" type="FixedString" value="691676ac-959b-9d74-61c3-0a5f481e68ff-_(Icon_Animated_Armor)" />
 					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
 					<attribute id="LevelOverride" type="int32" value="6" />
+					<attribute id="MapKey" type="FixedString" value="4b79f7c2-6a99-11ee-8c99-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_ADDITIONAL_ARMOR_ACIDPOOL_SCL" />
 					<attribute id="Stats" type="FixedString" value="TWN_ShadowAnimatedArmour" />
 					<attribute id="TemplateName" type="FixedString" value="9144def4-42a7-4094-8512-6cad134d1514" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="MapKey" type="FixedString" value="4b79f7c2-6a99-11ee-8c99-0242ac120002" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="ItemList">
 							<children>
@@ -6548,6 +6549,7 @@
 				</node>
 				<node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="771f0ba4-545c-08e4-e640-53276feabfd4" />
+					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="CombatGroupID" type="FixedString" value="22692220-6ded-11ee-b962-0242ac120002" />
 					<attribute id="Faction" type="guid" value="0314cde4-8572-4d70-a117-dba88e20e70d" />
 					<attribute id="Flag" type="int32" value="1" />
@@ -6557,7 +6559,6 @@
 					<attribute id="MapKey" type="FixedString" value="337aac28-6dfc-11ee-b962-0242ac120002" />
 					<attribute id="Name" type="LSString" value="MOD_SCL_ZOMBIE_MASON01" />
 					<attribute id="Stats" type="FixedString" value="MOD_SCL_Zombie" />
-					<attribute id="TemplateName" type="FixedString" value="d07a6db8-462f-48ac-8286-8aad8282ba02" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
