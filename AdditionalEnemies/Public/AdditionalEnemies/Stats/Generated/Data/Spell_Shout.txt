@@ -1,0 +1,9 @@
+
+new entry "Shout_MAG_ArmsOfHadar_4"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ArmsOfHadar_4"
+data "Cooldown" "OncePerTurn"
+data "UseCosts" "ActionPoint:1"
+data "RootSpellID" ""
+data "PowerLevel" "4"

@@ -1,0 +1,6 @@
+new treasuretable "MOD_LOOT_WPN_HobRaider"
+new subtable "1,1"
+object category "I_MOD_WPN_HeavyCrossbow_Raider",1,0,0,0,0,0,0,0
+new treasuretable "MOD_LOOT_GOLD"
+new subtable "1,1"
+object category "T_Gold_Pocket_Wealthy",1,0,0,0,0,0,0,0

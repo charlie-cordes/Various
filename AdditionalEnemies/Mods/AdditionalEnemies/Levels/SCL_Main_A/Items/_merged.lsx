@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="LevelName" type="FixedString" value="SCL_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="cde25069-f45b-455a-81ec-99f56818d384" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_Chest_Jewel_B_002" />
+					<attribute id="TemplateName" type="FixedString" value="a87debb4-a746-41b8-8441-7c436a91cc2d" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SCL_Main_A" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Exploration_Major" />
+								</node>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Exploration_Major" />
+								</node>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Exploration_Major" />
+								</node>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Exploration_Major" />
+								</node>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Exploration_Major" />
+								</node>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Exploration_Major" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-822.7217 10.27203 -868.9481" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 -0.09066688 0.9958814" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

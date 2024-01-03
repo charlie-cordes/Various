@@ -1,0 +1,97 @@
+new equipment "EQP_MOD_Raider"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "MOD_WPN_HeavyCrossbow_Raider"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body"
+
+new equipment "EQP_MOD_DuergarTrueSoul"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "MAG_PoR_OfVigilance_Halberd"
+add equipmentgroup
+add equipment entry "MAG_DevilsBlackmith_ScaleMail"
+add equipmentgroup 
+add equipment entry "MAG_EndGameCaster_Hood"
+
+new equipment "EQP_MOD_DuergarGeneral"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_LightHammer_B"
+add equipmentgroup
+add equipment entry "WPN_LightHammer_B"
+add equipmentgroup 
+add equipment entry "ARM_ScaleMail_Body_1"
+add equipmentgroup
+add equipment entry "UNI_ARM_OfTeleportation_Helm"
+
+new equipment "EQP_MOD_OTHANI"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Greatsword"
+add equipment group
+add equipment entry "ARM_Splint_Body"
+
+new equipment "EQP_MOD_DEATHGENERAL"
+add initialweaponset
+add equipmentgroup
+add equipment entry "MOD_CHARGEDVEST_COMPLETE"
+add equipmentgroup 
+add equipment entry "MAG_Healer_HealSelf_Helmet"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Leather_Gloves"
+
+
+new equipment "EQP_MOD_TRUESOULHUNTER_CRE"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "MAG_StrongString_Longbow"
+add equipmentgroup 
+add equipment entry "ARM_ScaleMail_Body_2"
+add equipmentgroup
+add equipment entry "MAG_Mobility_MomentumOnCombatStart_Helmet"
+
+new equipment "EQP_MOD_DJINN_LATHENDAR"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "MAG_ChargedLightning_Quarterstaff"
+add equipmentgroup
+add equipment entry "MAG_ChargedLightning_TempHP_Helmet"
+
+new equipment "EQP_MOD_TRUESOUL_ASSASSIN_SCL"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Dagger_2"
+add equipmentgroup
+add equipment entry "WPN_Dagger_2"
+add equipmentgroup
+add equipment entry "GOB_DrowCommander_Leather_Armor"
+add equipmentgroup
+add equipment entry "UND_ShadowOfMenzoberranzan"
+
+new equipment "EQP_BROOK_DEATHWALKER"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "MAG_HigherNecromancy_Staff"
+add equipmentgroup
+add equipment entry "ARM_ChainShirt_Body_Shar"
+
+new equipment "EQP_TRUESOUL_TWIN_POISONER"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "MOD_WPN_LIGHTCROSSBOW_POISONER"
+add equipmentgroup
+add equipment entry "MAG_ofMarksmanship_Hat"
+add equipmentgroup
+add equipment entry "MAG_Acid_NoxiousFumes_Gloves"
+add equipmentgroup
+add equipment entry "FOR_SpiderQueen_Robe"
+
+new equipment "EQP_TRUESOUL_TWIN_BRUTE"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "MAG_Drowelf_SpiderSnare_Longsword"
+add equipmentgroup
+add equipment entry "MAG_Barbarian_Magic_Armor_1"
+add equipmentgroup
+add equipment entry "MAG_Barbarian_BoneSpike_Helmet"
